@@ -44,7 +44,7 @@ A non-exhaustive list related to the <a href="https://ethereumclassic.org/">Ethe
 
 TBD - pending final organization
 
-<img width="200px" src="./ethereum_classic_logo_green_full.png">
+<img width="200px" src="./images/ethereum_classic_logo_green_full.png">
 
 ## Networks
 
