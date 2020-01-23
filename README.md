@@ -44,7 +44,6 @@ A non-exhaustive list related to the <a href="https://ethereumclassic.org/">Ethe
 
 TBD - pending final organization
 
-<img width="200px" src="./images/ethereum_classic_logo_green_full.png">
 
 ## Networks
 
@@ -52,7 +51,7 @@ TBD - pending final organization
 | --- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | Ethereum Classic | etc | ETC | 61 | mainnet | 1 | [code](https://github.com/ethereumclassic) | Proof-of-Work (PoW) | Ethash |
 | Astor | x | ETC | x | testnet | x | [code](https://astor.host/) | Proof-of-Work | Keccak256 |
-| Testnet Kotti | kot | ETC | 6 | testnet | 6 | [code](https://github.com/goerli/testnet) | Proof-of-Authority (PoA) | Reputation |
+| Testnet Kotti | kot | ETC | 6 | kotti | 6 | [code](https://github.com/goerli/testnet) | Proof-of-Authority (PoA) | Reputation |
 | Testnet Mordor | metc | ETC | 63 | testnet | 7| [code](https://github.com/eth-classic/mordor) | Proof-of-Work (PoW) | Ethash |
 source: [EthereumVM.org](http://ethereumvm.org/)
 
