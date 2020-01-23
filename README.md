@@ -50,17 +50,24 @@ TBD - pending final organization
 
 | Name | Short Name | Chain | Chain ID | Network | Network ID | Repository | Consensus Mechanism | Mining Algorithm |
 | --- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Name | Short Name | Chain | Chain ID | Network | Network ID | Repository | Consensus Mechanism | Mining Algorithm |
-
-| Network | Consensus Mechanism | Mining Algorithm | code repository |
-| --- | :---: | :---:| :---: |
-| Mainnet: [Ethereum Classic](https://github.com/ethereumclassic) | Proof-of-Work (PoW)| Ethash | [Ethereum Classic](https://github.com/ethereumclassic) |
-| Testnet: [Astor](https://astor.host/) | Proof-of-Work (PoW)| Keccak256 | [Astor](https://astor.host/) |
-| Testnet: [Kotti](https://github.com/goerli/testnet) | Proof-of-Authority (PoA)| Reputation | [Kotti](https://github.com/goerli/testnet) |
-| Testnet: [Mordor](https://github.com/eth-classic/mordor) | Proof-of-Work (PoW) | Ethash | [Mordor](https://github.com/eth-classic/mordor) |
+| Ethereum Classic | etc | ETC | 61 | mainnet | 1 | [code](https://github.com/ethereumclassic) | Proof-of-Work (PoW) | Ethash |
+| Astor | x | ETC | x | testnet | x | [code](https://astor.host/) | Proof-of-Work | Keccak256 |
+| Testnet Kotti | kot | ETC | 6 | testnet | 6 | [code](https://github.com/goerli/testnet) | Proof-of-Authority (PoA) | Reputation |
+| Testnet Mordor | metc | ETC | 63 | testnet | 7| [code](https://github.com/eth-classic/mordor) | Proof-of-Work (PoW) | Ethash |
+source: [EthereumVM.org](http://ethereumvm.org/)
 
 
+## Network Clients
 
+| Client Name | Status |
+| :---: | :---:|
+| [Emerald Wallet](https://github.com/emeraldpay/emerald-wallet) | Current |
+| [Geth Classic](https://github.com/etclabscore/go-ethereum) | *Deprecated with Aztlán Upgrade* |
+| [Hyperledger Besu](https://besu.hyperledger.org/) | Current |
+| [Mantis](https://github.com/input-output-hk/mantis) | *Deprecated with Agharta Upgrade* |
+| [Mist Classic](https://github.com/ethereumproject/mist) | *Obsolete* |
+| [Multi-Geth](https://github.com/multi-geth/multi-geth) | Current |
+| [Parity Ethereum](https://github.com/paritytech/parity-ethereum) | Current |
 
 
 
@@ -100,15 +107,6 @@ https://t.me/ETC_Italia)
 | 2019 | [ChainSafe](https://chainsafe.io/) | Active |
 | 2019 | [ETC Core](https://etccore.io/) | Active |
 | 2019 | [Hyperledger](https://hyperledger.org/) | Active |
-
-## Networks
-
-| Network | Consensus Mechanism | Mining Algorithm |
-| --- | :---: | :---:|
-| Mainnet: [Ethereum Classic](https://github.com/ethereumclassic) | Proof-of-Work (PoW)| Ethash |
-| Testnet: [Astor](https://astor.host/) | Proof-of-Work (PoW)| Keccak256 |
-| Testnet: [Görli & Kotti](https://github.com/goerli/testnet) | Proof-of-Authority (PoA)| Reputation |
-| Testnet: [Mordor](https://github.com/eth-classic/mordor) | Proof-of-Work (PoW) | Ethash |
 
 ## Network Clients
 
