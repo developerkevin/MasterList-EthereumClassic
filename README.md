@@ -53,6 +53,7 @@ TBD - pending final organization
 | Astor | x | ETC | x | testnet | x | [code](https://astor.host/) | Proof-of-Work | Keccak256 |
 | Testnet Kotti | kot | ETC | 6 | kotti | 6 | [code](https://github.com/goerli/testnet) | Proof-of-Authority (PoA) | Reputation |
 | Testnet Mordor | metc | ETC | 63 | testnet | 7| [code](https://github.com/eth-classic/mordor) | Proof-of-Work (PoW) | Ethash |
+
 source: [EthereumVM.org](http://ethereumvm.org/)
 
 
