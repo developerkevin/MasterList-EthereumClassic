@@ -1,27 +1,35 @@
-**Ethereum Classic Project Repository:** https://github.com/ethereumclassic
-
-**Updated: January, 2020**
+| Ethereum Classic |
+| --- |
+| <img width="50px" src="./images/ethereum_classic_logo_green_full.png"> |
+| website: *https://ethereumclassic.org* |
+| code repository: *https://github.com/ethereumclassic* |
+| ticker symbol: *ETC* |
+| updated: *2020-01* |
+| [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re) |
 
 
 <br/>
 <div align="center">
-  <img width="750px" src="./ethereum_classic_logo_green_wires.png">
+  <img width="750px" src="./images/ethereum_classic_logo_green_wires.png">
   </div>
 <br/>
 <div align="center">
-An awesome non-exhaustive list about everything related to the <a href="https://en.wikipedia.org/wiki/Ethereum_Classic">Ethereum Classic</a> project.
+An awesome non-exhaustive list about things related to the <a href="https://en.wikipedia.org/wiki/Ethereum_Classic">Ethereum Classic</a> project.
 <br />
 <a href="https://ethereumclassic.org/">Ethereum Classic</a> is an open-source, blockchain and smart contract computing platform.
 
-[![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 </div>
 <br/>
 
 ## Overview
 >Ethereum Classic is a distributed blockchain computing platform for smart contracts and decentralized applications. Its native token is ether (ETC), which primarily serves as a reserve currency for transactions on the Ethereum Classic network. Ethereum Classic is the unaltered, original state Ethereum chain that launched in July, 2015.
 
-**Ethereum project splits in a hardfork**
+**Ethereum project splits in a contentious hard fork**
 >On July 20, 2016, an event known as ["the DAO hack"](https://www.cryptocompare.com/coins/guides/the-dao-the-hack-the-soft-fork-and-the-hard-fork/) resulted in a contentious hard fork of the Ethereum project. An unnamed sister chain with an irregular state change was born. The rights to the Ethereum project's brand are owned by the Ethereum Foundation, a non-profit organization that was a proponent of the new sister chain. The Ethereum Foundation applied their "Ethereum" brand and "ETH" ticker symbol to the new sister chain.
+
+<div align="center">
+  <img width="600px" src="./images/ethereum_contentious_hard_fork.png">
+  </div>
 
 **Rebranding from Ethereum (ETH) to Ethereum Classic (ETC)**
 
@@ -29,32 +37,35 @@ An awesome non-exhaustive list about everything related to the <a href="https://
 
 # Ethereum Classic
 
-<img width="200px" src="./ethereum_classic_phoenix-green-full.png">
+<div align="center">
+  <img width="200px" src="./images/ethereum_classic_logo_green_full.png">
+  </div>
 
 ## Contents
 
-1. [Documentation](#documentation)
-2. [Social Channels](#social-channels)
-3. [Development Teams](#development-teams)
-4. [Networks](#networks)
-5. [Network Clients](#network-clients)
-6. [Infrastructure](#infrastructure)
-7. [Blockchain Utilities](#blockchain-utilities)
-
-4. [Wallets](#wallets)
-
-2. [Programming](#programming)
-3. [Tutorials](#tutorials)
-4. [Code](#code)
-5. [Learning and MOOCs](#learning-and-moocs)
-6. [Philosophy](#philosophy)
-7. [Videos](#videos)
-10. [Protocols](#protocols)
-11. [Books](#books)
-12. [Misc](#misc)
-13. [Official](#official)
+TBD - pending final organization
 
 <img width="200px" src="./ethereum_classic_logo_green_full.png">
+
+## Networks
+
+| Name | Short Name | Chain | Chain ID | Network | Network ID | Repository | Consensus Mechanism | Mining Algorithm |
+| --- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Name | Short Name | Chain | Chain ID | Network | Network ID | Repository | Consensus Mechanism | Mining Algorithm |
+
+| Network | Consensus Mechanism | Mining Algorithm | code repository |
+| --- | :---: | :---:| :---: |
+| Mainnet: [Ethereum Classic](https://github.com/ethereumclassic) | Proof-of-Work (PoW)| Ethash | [Ethereum Classic](https://github.com/ethereumclassic) |
+| Testnet: [Astor](https://astor.host/) | Proof-of-Work (PoW)| Keccak256 | [Astor](https://astor.host/) |
+| Testnet: [Kotti](https://github.com/goerli/testnet) | Proof-of-Authority (PoA)| Reputation | [Kotti](https://github.com/goerli/testnet) |
+| Testnet: [Mordor](https://github.com/eth-classic/mordor) | Proof-of-Work (PoW) | Ethash | [Mordor](https://github.com/eth-classic/mordor) |
+
+
+
+
+
+
+
 
 ## Documentation
 
