@@ -20,6 +20,12 @@ A non-exhaustive list related to the <a href="https://ethereumclassic.org/">Ethe
 </div>
 <br/>
 
+## Contents
+
+TBD - pending final organization
+1. [Overview](#overview)
+
+
 ## Overview
 >Launched on July 30, 2015, Ethereum Classic is a distributed blockchain computing platform for smart contracts and decentralized applications. Its native token is ether (ETC), which primarily serves as a reserve currency for transactions on the Ethereum Classic network. In the greater, interoperable Ethereum Virtual Machine (EVM) ecosystem, Ethereum Classic is the original, *unaltered state* Ethereum chain.
 
@@ -40,11 +46,6 @@ A non-exhaustive list related to the <a href="https://ethereumclassic.org/">Ethe
   <img width="200px" src="./images/ethereum_classic_logo_green_full.png">
   </div>
 
-## Contents
-
-TBD - pending final organization
-
-
 ## Networks
 
 | Name | Short Name | Chain | Chain ID | Network | Network ID | Repository | Consensus Mechanism | Mining Algorithm |
@@ -62,9 +63,9 @@ source: [EthereumVM.org](http://ethereumvm.org/)
 | Client Name | Status |
 | :---: | :---:|
 | [Emerald Wallet](https://github.com/emeraldpay/emerald-wallet) | Current |
-| [Geth Classic](https://github.com/etclabscore/go-ethereum) | *Deprecated with Aztlán Upgrade* |
+| [Geth Classic](https://github.com/etclabscore/go-ethereum) | *Obsolete* |
 | [Hyperledger Besu](https://besu.hyperledger.org/) | Current |
-| [Mantis](https://github.com/input-output-hk/mantis) | *Deprecated with Agharta Upgrade* |
+| [Mantis](https://github.com/input-output-hk/mantis) | *Deprecated* |
 | [Mist Classic](https://github.com/ethereumproject/mist) | *Obsolete* |
 | [Multi-Geth](https://github.com/multi-geth/multi-geth) | Current |
 | [Parity Ethereum](https://github.com/paritytech/parity-ethereum) | Current |
