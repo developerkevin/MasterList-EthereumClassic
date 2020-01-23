@@ -5,7 +5,6 @@
 | code repository: *https://github.com/ethereumclassic* |
 | ticker symbol: *ETC* |
 | updated: *2020-01* |
-| [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re) |
 
 
 <br/>
@@ -14,15 +13,15 @@
   </div>
 <br/>
 <div align="center">
-An awesome non-exhaustive list about things related to the <a href="https://en.wikipedia.org/wiki/Ethereum_Classic">Ethereum Classic</a> project.
+A non-exhaustive list related to the <a href="https://ethereumclassic.org/">Ethereum Classic</a> network.
 <br />
-<a href="https://ethereumclassic.org/">Ethereum Classic</a> is an open-source, blockchain and smart contract computing platform.
+<a href="https://github.com/ethereumclassic">Ethereum Classic</a> is an open-source, blockchain and smart contract computing platform.
 
 </div>
 <br/>
 
 ## Overview
->Ethereum Classic is a distributed blockchain computing platform for smart contracts and decentralized applications. Its native token is ether (ETC), which primarily serves as a reserve currency for transactions on the Ethereum Classic network. Ethereum Classic is the unaltered, original state Ethereum chain that launched in July, 2015.
+>Launched on July 30, 2015, Ethereum Classic is a distributed blockchain computing platform for smart contracts and decentralized applications. Its native token is ether (ETC), which primarily serves as a reserve currency for transactions on the Ethereum Classic network. In the greater, interoperable Ethereum Virtual Machine (EVM) ecosystem, Ethereum Classic is the original, *unaltered state* Ethereum chain.
 
 **Ethereum project splits in a contentious hard fork**
 >On July 20, 2016, an event known as ["the DAO hack"](https://www.cryptocompare.com/coins/guides/the-dao-the-hack-the-soft-fork-and-the-hard-fork/) resulted in a contentious hard fork of the Ethereum project. An unnamed sister chain with an irregular state change was born. The rights to the Ethereum project's brand are owned by the Ethereum Foundation, a non-profit organization that was a proponent of the new sister chain. The Ethereum Foundation applied their "Ethereum" brand and "ETH" ticker symbol to the new sister chain.
