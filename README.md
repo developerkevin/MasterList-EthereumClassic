@@ -21,6 +21,8 @@ A non-exhaustive list related to the <a href="https://ethereumclassic.org/">Ethe
 <br/>
 
 
+# Ethereum Classic Master List
+
 ## Contents
 
 **Network Information**
@@ -31,36 +33,40 @@ A non-exhaustive list related to the <a href="https://ethereumclassic.org/">Ethe
 3. [Ethereum Classic Network Clients](#ethereum-classic-network-clients)
 4. [Node Deployment Tools](#node-deployment-tools)
 5. [Network Public Utilities](#network-public-utilities)
-**Ethereum Classic Ecosystem**
-7. [Dapps](#dapps)
-7. [Exchanges](#exchanges)
-7. [Wallets](#wallets)
-**Ethereum Classic Participants**
-6. [Community Channels](#community-channels)
-7. [Developer Teams](#developer-teams)
-8. [Miner Software](#miner-software)
-9. [Mining Pools](#mining-pools)
-**Developer Resources**
-10. [Developer Tools](#developer-tools)
-11. [Tutorials](#tutorials)
-**Technical Documentation**
-1. [Technical Papers](#technical-papers)
-1. [History](#history)
-1. [Wiki](#wiki)
-1. [Code Documentation](#code-documentation)
-**Educational Material**
-1. [Learning and MOOCs](#learning-and-moocs)
-1. [Philosophy](#philosophy)
-1. [Videos](#videos)
-1. [Protocols](#protocols)
-1. [Books](#books)
-**Other Material**
-1. [Miscellaneous](#miscellaneous)
-1. [Contribute](#contribute)
-1. [License](#license)
 
-Misc
-1. []()
+**Ethereum Classic Ecosystem**
+6. [Dapps](#dapps)
+7. [Exchanges](#exchanges)
+8. [Wallets](#wallets)
+
+**Ethereum Classic Participants**
+9. [Community Channels](#community-channels)
+10. [Developer Teams](#developer-teams)
+11. [Miner Software](#miner-software)
+12. [Mining Pools](#mining-pools)
+
+**Developer Resources**
+13. [Developer Tools](#developer-tools)
+14. [Tutorials](#tutorials)
+
+**Technical Documentation**
+15. [Technical Papers](#technical-papers)
+16. [Detailed History](#detailed-history)
+17. [Wiki](#wiki)
+18. [Code Documentation](#code-documentation)
+
+**Educational Material**
+19. [Learning and MOOCs](#learning-and-moocs)
+20. [Philosophy](#philosophy)
+21. [Videos](#videos)
+22. [Protocols](#protocols)
+23. [Books](#books)
+
+**Other Material**
+24. [Miscellaneous](#miscellaneous)
+25. [Contribute](#contribute)
+26. [License](#license)
+
 
 ## Overview
 >Launched on July 30, 2015, Ethereum Classic is a distributed blockchain computing platform for smart contracts and decentralized applications. Its native token is ether (ETC), which primarily serves as a reserve currency for transactions on the Ethereum Classic network. In the greater, interoperable Ethereum Virtual Machine (EVM) ecosystem, Ethereum Classic is the original, *unaltered state* Ethereum chain.
@@ -447,7 +453,7 @@ Step by step guides on using Ethereum.
 - [Whitepaper](https://github.com/ethereum/wiki/wiki/White-Paper) - Non-technical introductory description of Ethereum.
 - [Yellowpaper](https://ethereum.github.io/yellowpaper/paper.pdf) - Technical description of Ethereum. Technically outdated, but interesting.
 
-## History
+## Detailed History
 
 **Conception to token sale**
 >Vitalik Buterin conceived Ethereum in 2013, after what he perceived as limitations in the functionality of Bitcoin’s scripting language, namely the lack of Turing completeness. Buterin published the first Ethereum <a href="https://github.com/ethereum/wiki/wiki/White-Paper">white paper</a> later that year, describing a distributed computing platform for executing smart contracts and building decentralized applications (dApps). In 2014, Buterin and some other early contributors founded the <a href="https://ethereum.org">Ethereum Foundation</a>, a non-profit organization dedicated to Ethereum’s research, core protocol development, and ecosystem growth. The Ethereum Foundation's first task was to host the Ethereum crowdsale, which took place between July 22, 2014, and September 02, 2014. The sale raised 31,529 BTC (~$18 million at the time) in exchange for about 60 million ether (80% of the initial 72 million ETC supply) to the public. The remaining 12 million ETC (20% of the initial supply) were allocated to the Ethereum Foundation and early Ethereum contributors.
