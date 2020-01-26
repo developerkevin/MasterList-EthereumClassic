@@ -30,7 +30,6 @@ TBD - pending final organization
 4. [Node Deployment Tools & API End Points](#node-deployment-tools)
 5. [Developer Teams](#developer-teams)
 6. [Developer Tools](#developer-tools)
-7. [Infrastructure Tools](#infrastructure-tools)
 
 
 ## Overview
@@ -78,11 +77,11 @@ source: [EthereumVM.net](https://ethereumvm.net/)
 
 ## Node Deployment Tools & API End Points
 
-- [Bloq Cloud](https://bloq.cloud/)
-- [DappNode](https://dappnode.io/)
-- [Ethercluster](https://www.ethercluster.com/)
-- [Ethernode](https://ethernode.io/)
-- [QuikNode](https://quiknode.io/)
+- [Bloq Cloud](https://bloq.cloud/) - BloqCloud delivers highly-optimized, always available access to blockchain networks. Connect quickly and scale easily based on your needs -- without having to worry about managing infrastructure.
+- [DappNode](https://dappnode.io/) - DAppNode facilitates running nodes, DApps and hosting P2P networks and economies.
+- [Ethercluster](https://www.ethercluster.com/) - Ethercluster is an open-sourced Ethereum Virtual Machine (EVM) Remote Procedure Call (RPC) providing Ethereum Classic (ETC) and Kotti endpoints for free.
+- [NodeHelp](https://node.help/) - Our easy to use platform & API provides you with access to public blockchains or private distributed ledger technology networks in three clicks. We focus on providing secure, reliable, and scalable node infrastructure.
+- [QuikNode](https://quiknode.io/) - QuikNodes are easy, always on, with a fast internet connection for quick blockchain sync, and you never have to worry about running out of disk space.
 
 
 ## Development Teams
@@ -102,6 +101,8 @@ source: [EthereumVM.net](https://ethereumvm.net/)
 | 2019 | [ETC Core](https://etccore.io/) | [@etc_core](https://twitter.com/etc_core) | Active | [source code](https://github.com/etclabscore) |
 | 2019 | [Hyperledger](https://hyperledger.org/) | [@Hyperledger](https://twitter.com/Hyperledger) | Active | [source code](https://github.com/ChainSafe/besu) |
 | 2019 | [Second State](https://www.secondstate.io/) | [@secondstateinc](https://twitter.com/secondstateinc) | Active | [source code](https://github.com/second-state) |
+
+Note: If your team deserves attribution, please reach out to the community via the Ethereum Classic [discord](https://discordapp.com/invite/HW4GckH).
 
 
 ## Developer Tools
@@ -126,6 +127,75 @@ source: [EthereumVM.net](https://ethereumvm.net/)
 - [Truffle Suite](https://www.trufflesuite.com/) - A world class development environment, testing framework and asset pipeline for blockchains using the Ethereum Virtual Machine (EVM), aiming to make life as a developer easier.
 
 
+## Community Channels
+
+### Chat
+- [Discord](https://discordapp.com/invite/HW4GckH)
+- Kakao: [Korea](https://open.kakao.com/o/gi4uNJ1)
+- Matrix (Developer Chat): [Riot.im](https://riot.im/app/#/room/#ecips:matrix.org)
+- Telegram: [Arabic](https://t.me/EtherClassic_Ar), [China](https://t.me/etczh), [English](https://telegram.me/ethclassic), [English](https://t.me/etcchat), [Español](https://t.me/ethclassicesp), [German](https://t.me/EtherCalssic_de), [Italia](https://t.me/ETC_Italia), [Russia](https://telegram.me/etcrussia), [Russia](https://telegram.me/etcru), [Viet Nam](https://t.me/ETCVietnam)
+- Tencent QQ: ETC Asia-769408114
+- WeChat: [insert link] *Note:* source QR images from ETC Coop and Chinese Websites.
+
+### Forum
+- Reddit: [r/EthereumClassic](https://www.reddit.com/r/EthereumClassic/)
+
+### Media
+- Podcast: [Let's Talk ETC!](https://www.youtube.com/playlist?list=PLKO8sMfwkZQqGH3Ny2OJ_SRcAvSf_0gx5)
+
+### Repository
+- [Github](https://github.com/ethereumclassic)
+
+### Twitter
+- Twitter: [China](https://twitter.com/EthereumChina), [China](https://twitter.com/ETCChina), [English](https://twitter.com/EthereumClassic), [English](https://twitter.com/eth_classic), [Español](https://twitter.com/ethclassicesp), [German](https://twitter.com/GermanyEtc), [Italia](https://twitter.com/etcitalia), [Korea](https://twitter.com/etckorea1), [Korea](https://twitter.com/ethclassic_kor), [Japan](https://twitter.com/ETCJapan), [Netherlands](https://twitter.com/etcnetherlands), [Pilipinas](https://twitter.com/ETC_Philippines), [Sri Lanka](https://twitter.com/etcSriLanka), [Viet Nam](https://twitter.com/ETCVietNam)
+
+### Websites
+- [EthereumClassic.org](https://ethereumclassic.org)
+- International Community Sites: [Asia](http://ethereumclassicasia.org/), [China](http://ethereumclassic.cn/), [Korea](https://etckorea.modoo.at/), [Korea](https://www.ethereumclassickorea.com/)
+
+Note: If your community channel is not listed, please reach out to the community via the Ethereum Classic [discord](https://discordapp.com/invite/HW4GckH).
+
+
+## Mining Software
+
+| Windows AMD | Windows NVIDIA | Linux AMD | Linux NVIDIA |
+| :---: | :---: | :---: | :---: |
+| [Bminer](https://www.bminer.me/releases/) | | [Bminer](https://www.bminer.me/releases/) | |
+| [Claymore Miner](https://bitcointalk.org/index.php?topic=1433925.0) | [Claymore Miner](https://bitcointalk.org/index.php?topic=1433925.0) | [Claymore Miner](https://bitcointalk.org/index.php?topic=1433925.0) | [Claymore Miner](https://bitcointalk.org/index.php?topic=1433925.0) |
+| [Ethminer](https://github.com/ethereum-mining/ethminer/releases) | [Ethminer](https://github.com/ethereum-mining/ethminer/releases) | [Ethminer](https://github.com/ethereum-mining/ethminer/releases) | [Ethminer](https://github.com/ethereum-mining/ethminer/releases) |
+| [Phoenix Miner](https://bitcointalk.org/index.php?topic=2647654.0) | [Phoenix Miner](https://bitcointalk.org/index.php?topic=2647654.0) | | |
+| [Qtminer](http://cryptomining-blog.com/tag/qtminer/) | [Qtminer](http://cryptomining-blog.com/tag/qtminer/) | [Qtminer](https://github.com/etherchain-org/qtminer) | [Qtminer](https://github.com/etherchain-org/qtminer) |
+
+Optimization: [minerOS Miner Butler](http://www.mineros.cn/#/home)
+
+
+## Mining Pools
+- [2Miners](https://2miners.com/etc-mining-pool)
+- [AltPool](http://etc.altpool.pro/)
+- [ANYHASH](https://anyhash.net/)
+- [Beepool](https://beepool.org/coindetail/etc)
+- [BTC.com](https://pool.btc.com/)
+- [Clona](https://etc.clona.ru)
+- [CoolPool](https://coolpool.top/pool?coin=etc&type=pplns)
+- [Cominers](https://etc.cominers.org/)
+- [Comining](https://comining.io/)
+- [Ethermine](https://etc.ethermine.org/)
+- [f2pool](https://www.f2pool.com/)
+- [FairPool](https://etc.fairpool.xyz/)
+- [HashOn](https://hashon.me/etc/home)
+- [HVPPS](http://etc.hvpps.net/)
+- [MATPool](https://matpool.io/)
+- [MaxHash](https://etcpool.maxhash.org/)
+- [MinerGate](https://minergate.com/etc-mining-pool)
+- [MiningPoolHub](https://ethereum-classic.miningpoolhub.com/)
+- [Mole-Pool](http://mole-pool.net/)
+- [Nanopool](https://etc.nanopool.org/)
+- [SoloPool](https://etc.solopool.org/)
+- [uuPool](https://uupool.cn/)
+- [ŻET](https://etc.zet-tech.eu/)
+
+
+
 
 
 
@@ -138,27 +208,6 @@ Ethereum Project Documentation.
 - [Whitepaper](https://github.com/ethereum/wiki/wiki/White-Paper) - Non-technical introductory description of Ethereum.
 - [Yellowpaper](https://ethereum.github.io/yellowpaper/paper.pdf) - Technical description of Ethereum. Technically outdated, but interesting.
 
-## Social Channels
-- [Discord](https://discordapp.com/invite/HW4GckH)
-- [ECIPs](http://ecips.net/)
-- [Github](https://github.com/ethereumclassic)
-- [Reddit](https://www.reddit.com/r/EthereumClassic/)
-- Telegram: [English](https://telegram.me/ethclassic), [Italia](
-https://t.me/ETC_Italia)
-- [Twitter](https://twitter.com/eth_classic)
-- [WeChat](https://weixin.qq.com/g/AkByP4hWL2uFxxPP)
-
-
-
-
-
-## Infrastructure
-
-- [Bloq Cloud](https://bloq.cloud/)
-- [DappDirect](https://dappdirect.net/)
-- [Ethercluster](https://www.ethercluster.com/)
-- [Ethernode](https://ethernode.io/)
-- [QuikNode](https://quiknode.io/)
 
 ## Blockchain Utilities
 
