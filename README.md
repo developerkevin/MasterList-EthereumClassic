@@ -4,10 +4,10 @@
 | website: *https://ethereumclassic.org* |
 | source code repository: *https://github.com/ethereumclassic* |
 | ticker symbol: *ETC* |
+| genesis block: 2015-07-30 |
 | updated: *2020-01* |
 
 
-<br/>
 <div align="center">
   <img width="750px" src="./images/ethereum_classic_logo_green_wires.png">
   </div>
