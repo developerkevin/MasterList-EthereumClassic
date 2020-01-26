@@ -29,7 +29,7 @@ Network Information
 2. [Ethereum Classic Virtual Machine Chains](#ethereum-classic-virtual-machine-chains)
 Network Resources
 3. [Ethereum Classic Network Clients](#ethereum-classic-network-clients)
-4. [Node Deployment Tools & API End Points](#node-deployment-tools)
+4. [Node Deployment Tools](#node-deployment-tools)
 5. [Network Utilities](#network-utilities)
 ETC Participants
 6. [Community Channels](#community-channels)
@@ -89,7 +89,8 @@ source: [EthereumVM.net](https://ethereumvm.net/)
 | [Multi-Geth](https://github.com/multi-geth/multi-geth) | Maintained | [source code](https://github.com/multi-geth/multi-geth) |
 | [Parity-Ethereum](https://github.com/paritytech/parity-ethereum) | Maintained | [source code](https://github.com/paritytech/parity-ethereum) |
 
-## Node Deployment Tools & API End Points
+
+## Node Deployment Tools
 
 - [Bloq Cloud](https://bloq.cloud/) - BloqCloud delivers highly-optimized, always available access to blockchain networks. Connect quickly and scale easily based on your needs -- without having to worry about managing infrastructure.
 - [DappNode](https://dappnode.io/) - DAppNode facilitates running nodes, DApps and hosting P2P networks and economies.
