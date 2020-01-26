@@ -26,36 +26,43 @@ A non-exhaustive list related to the <a href="https://ethereumclassic.org/">Ethe
 ## Contents
 
 **Network Information**
+
 1. [Overview](#overview)
 2. [Ethereum Classic Virtual Machine Chains](#ethereum-classic-virtual-machine-chains)
 
 **Network Resources**
+
 3. [Ethereum Classic Network Clients](#ethereum-classic-network-clients)
 4. [Node Deployment Tools](#node-deployment-tools)
 5. [Network Public Utilities](#network-public-utilities)
 
 **Ethereum Classic Ecosystem**
+
 6. [Dapps](#dapps)
 7. [Exchanges](#exchanges)
 8. [Wallets](#wallets)
 
 **Ethereum Classic Participants**
+
 9. [Community Channels](#community-channels)
 10. [Developer Teams](#developer-teams)
 11. [Miner Software](#miner-software)
 12. [Mining Pools](#mining-pools)
 
 **Developer Resources**
+
 13. [Developer Tools](#developer-tools)
 14. [Tutorials](#tutorials)
 
 **Technical Documentation**
+
 15. [Technical Papers](#technical-papers)
 16. [Detailed History](#detailed-history)
 17. [Wiki](#wiki)
 18. [Code Documentation](#code-documentation)
 
 **Educational Material**
+
 19. [Learning and MOOCs](#learning-and-moocs)
 20. [Philosophy](#philosophy)
 21. [Videos](#videos)
@@ -63,6 +70,7 @@ A non-exhaustive list related to the <a href="https://ethereumclassic.org/">Ethe
 23. [Books](#books)
 
 **Other Material**
+
 24. [Miscellaneous](#miscellaneous)
 25. [Contribute](#contribute)
 26. [License](#license)
