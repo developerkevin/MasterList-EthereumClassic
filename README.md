@@ -177,7 +177,7 @@ source: [EthereumVM.net](http://ethereumvm.net/)
 - [Arena Racing](https://arena.highlander.network/)
 - [GitCoin](https://gitcoin.co/) *coming soon*
 - [OriginalMy](https://originalmy.com/)
-- more coming soon...
+- many more planned for 2020...
 
 Note: If your dapp is not listed, please reach out to the community via the Ethereum Classic [Discord](https://discordapp.com/invite/HW4GckH).
 
@@ -187,7 +187,8 @@ Note: If your dapp is not listed, please reach out to the community via the Ethe
 - [Commonwealth](https://commonwealth.gg)
 - [Saturn Protocol](https://www.saturn.network/)
 - [Uniswap](https://uniswap.io) *coming soon*
-- more coming soon...
+- [wETC](https://wetc.app/)
+- many more planned for 2020...
 
 ## Centralized Exchanges
 
