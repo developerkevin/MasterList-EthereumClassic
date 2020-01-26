@@ -49,9 +49,9 @@ A non-exhaustive list related to the <a href="https://ethereumclassic.org/">Ethe
 11. [Miner Software](#miner-software)
 12. [Mining Pools](#mining-pools)
 
-**Developer Resources**
+**Development Resources**
 
-13. [Developer Tools](#developer-tools)
+13. [Development Tools](#development-tools)
 14. [Tutorials](#tutorials)
 
 **Technical Documentation**
@@ -114,11 +114,11 @@ source: [EthereumVM.net](http://ethereumvm.net/)
 | Client Name | Status | Repository |
 | :---: | :---:| --- |
 | [Geth Classic](https://github.com/etclabscore/go-ethereum) | *Obsolete* | [source code](https://github.com/etclabscore/go-ethereum) |
-| [Hyperledger Besu](https://besu.hyperledger.org/) | Maintained | [source code](https://github.com/ChainSafe/besu) |
+| [Hyperledger Besu](https://besu.hyperledger.org/) | Maintained | [releases](https://github.com/hyperledger/besu/releases) |
 | [Mantis](https://github.com/input-output-hk/mantis) | *Deprecated* | [source code](https://github.com/input-output-hk/mantis) |
 | [Mist Classic](https://github.com/ethereumproject/mist) | *Obsolete* | [source code](https://github.com/ethereumproject/mist) |
-| [Multi-Geth](https://github.com/multi-geth/multi-geth) | Maintained | [source code](https://github.com/multi-geth/multi-geth) |
-| [Parity-Ethereum](https://www.parity.io/) | Maintained | [source code](https://github.com/paritytech/parity-ethereum) |
+| [Multi-Geth](https://github.com/multi-geth/multi-geth) | Maintained | [releases](https://github.com/multi-geth/multi-geth/releases) |
+| [Parity-Ethereum](https://www.parity.io/) | Maintained | [releases](https://github.com/paritytech/parity-ethereum/releases) |
 
 
 ## Node Deployment Tools
@@ -177,6 +177,8 @@ source: [EthereumVM.net](http://ethereumvm.net/)
 - [Arena Racing](https://arena.highlander.network/)
 - [GitCoin](https://gitcoin.co/) *coming soon*
 - [OriginalMy](https://originalmy.com/)
+- [Stampery](https://stampery.com/)
+- [Portal.Network](https://www.portal.network/)
 - [wETC](https://wetc.app/)
 - many more planned for 2020...
 
@@ -438,9 +440,9 @@ source: [MiningPoolStats.stream](https://miningpoolstats.stream/ethereumclassic)
 - [ŻET](https://etc.zet-tech.eu/)
 
 
-# Developer Resources
+# Development Resources
 
-## Developer Tools
+## Development Tools
 
 - [BUIDL IDE](https://buidl.secondstate.io/etc) - Second State BUIDL IDE is a web-based IDE that requires no software download or install. It provides a one-stop development and deployment environment for smart contract and dapp developers.
 - [Dappkit](https://dappkit.io/) - A ledger-agnostic, high-performance infrastructure and libraries for developers to build and scale decentralized applications. In short, collaborative Firebase for Dapps.
