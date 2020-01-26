@@ -133,20 +133,22 @@ source: [EthereumVM.net](http://ethereumvm.net/)
 ## Network Public Utilities
 
 | Network | Block Explorers| Monitor | Faucet | Public API Endpoints |
-| :---: | :---: | :---: | :---: | :---: |
+| :---: | --- | --- | :---: | :---: |
 | [Ethereum Classic](https://ethereumclassic.org) | [BlockScout](https://blockscout.com/etc/mainnet/), [Emerald Receipt](https://receipt.emeraldpay.io/) [ETCBlockExplorer](https://etcblockexplorer.com/), [ETCPlanet](https://etcplanet.org/), [EthereumMain.net](http://ethereummain.net/), [Expedition](https://expedition.dev/?network=mainnet), [MinerGate](https://minergate.com/blockchain/etc/blocks), [TheMinersPond](https://theminerspond.com/ethereumclassic/explorer/home), [Tokenview](https://etc.tokenview.com/) | [2Miners](https://2miners.com/etc-stats/), [CoinMetrics](https://coinmetrics.io/charts/#assets=etc), [CoinWarz](https://www.coinwarz.com/mining/ethereum-classic), [Emerald Insights](https://insights.emeraldpay.io/), [ETCNodes](https://etcnodes.org/), [ETCStats](http://etcstats.org), [ETCStatus](https://etcstatus.live/), [EtherStats](http://etc.etherstats.net), [MiningPoolStats](https://miningpoolstats.stream/ethereumclassic), [Nanopool](https://etc.nanopool.org/stats), [WhatToMine](https://whattomine.com/coins/162-etc-ethash) | x | [BlockScout](https://blockscout.com/etc/mainnet/api_docs), [Ethercluster](https://www.ethercluster.com/etc) |
 | [Astor](https://astor.host/) | [Astor Explorer](https://explore.astor.host/), [EthereumTest.net](http://astor.ethereumtest.net) | [Astor Stats](https://stats.astor.host/), [ETCStats](http://astor.etcstats.org), [EtherStats](http://astor.etherstats.net) | [1](http://astor.etherdrip.net) | x |
 | [Kotti](https://github.com/goerli/testnet) | [BlockScout](https://kotti.etccoopexplorer.com/), [EthereumTest.net](http://kotti.ethereumtest.net), [Expedition](https://expedition.dev/?network=kotti) | [ETCNodes](https://kotti.etcnodes.org/), [ETCStats](http://kotti.etcstats.org), [EtherStats](http://kotti.etherstats.net), [Kotti Stats](http://stats.kotti.goerli.net/), [Expedition](https://expedition.dev/?network=kotti) | [1](http://kottifaucet.me/), [2](http://kotti.etherdrip.net) | [Ethercluster](https://www.ethercluster.com/kotti) |
 | [Mordor](https://github.com/eth-classic/mordor) | [ETCCoopExplorer](https://mordor.etccoopexplorer.com/), [EthereumTest.net](http://mordor.ethereumtest.net), [Expedition](https://expedition.dev/?network=mordor) | [ETCStats](http://mordor.etcstats.org), [EtherStats](http://mordor.etherstats.net), [Expedition](https://expedition.dev/?network=mordor) | [1](http://mordor.canhaz.net/), [2](http://mordor.etherdrip.net) | x |
 
-Gas Fee Estimators:
+### Gas Fee Estimators:
+
 - [ETCGas](http://etcgas.net)
 - [EtherGas](http://etc.ethergas.net)
 - [ETHGasStation](https://ethgasstation.info/)
 - [Expedition](https://expedition.dev/?network=mainnet)
 - [GasGauge](http://etc.gasgauge.org)
 
-Dapp Lists:
+### Dapp Lists:
+
 - [CryptoGround](https://www.cryptoground.com/dapp)
 - [CoinCodex](https://coincodex.com/dapp-list/)
 - [Dapp.com](https://www.dapp.com/ja/search)
@@ -155,10 +157,16 @@ Dapp Lists:
 - [DappStatus](https://dappstatus.com/)
 - [State of the Dapps](https://www.stateofthedapps.com/)
 
-DeFi Monitors:
+### Open Finance (DeFi) Monitors:
+
+- [0xTracker](https://0xtracker.com/)
+- [CoinInterestRates](https://coininterestrates.com/)
+- [DeFiScan](https://defiscan.io/)
 - [DeFi Prime](https://defiprime.com/)
 - [DeFi Pulse](https://defipulse.com/)
 - [LoanScan](https://loanscan.io/)
+- [UniswapROI](https://www.uniswaproi.com/)
+- [Whois0x](https://whois0x.io/)
 
 
 # Ethereum Classic Ecosystem
@@ -167,67 +175,77 @@ DeFi Monitors:
 
 - [Alien Farm](https://alienfarm.highlander.network/)
 - [Arena Racing](https://arena.highlander.network/)
-- [Commonwealth](https://commonwealth.gg)
+- [GitCoin](https://gitcoin.co/) *coming soon*
 - [OriginalMy](https://originalmy.com/)
-- [Saturn Protocol](https://www.saturn.network/)
+- more coming soon...
 
 Note: If your dapp is not listed, please reach out to the community via the Ethereum Classic [Discord](https://discordapp.com/invite/HW4GckH).
 
 
-## Exchanges
-- [Multiswap.io](https://multiswap.io/)
-1. https://trade.kraken.com/markets/kraken/etc/usd
-2. https://poloniex.com/exchange#btc_etc
-3. https://hk.coineal.com/trade_center.html?s=etc-btc#en_US
-4. https://international.bittrex.com/Market/Index?MarketName=USD-ETC
-5. https://pro.coinbase.com/trade/ETC-USD
-6. https://www.binance.com/en/trade/ETC_USDT
-7. https://www.hbg.com/en-us/etc_usdt/exchange/
-8. https://coinsbit.io/trade/ETC_BTC
-9. https://www.catex.io/trading/ETC/BTC
-10. https://www.idcm.io/trading/ETC_USDT
-11. https://www.bitfinex.com/t/ETCUSD
-12. https://www.cointiger.com/en-us/#/trade_pro?coin=etc_btc
-13. https://trans.zb.com/markets/etcbtc
-14. https://trade.coinegg.com/trade/etc_btc
-15. https://www.bibox.com/exchange?coinPair=ETC_USDT
-16. https://www.bitforex.com/en/spot/etc_usdt
-17. https://hitbtc.com/ETC-to-BTC
-18. https://www.digifinex.com/en-ww/trade/USDT/ETC
-19. https://www.coinbene.com/exchange/en_US/ETCUSDT
-20. https://www.idax.pro/exchange?pairname=ETC_USDT
-21. https://p2pb2b.io/trade/ETC_BTC
-22. https://www.55.com/exchange?symbol=ETCBTC&site=B
-23. https://www.okex.com/market?product=etc_usdt
-24. https://www.saturn.network/
-25. https://www.bit-z.com/exchange/etc_btc
-26. https://www.coinsuper.com/trade?symbol=ETC%2FUSD
-27. https://www.exx.com/tradeCoding/etc_usdt
-28. https://sg.upbit.com/exchange?code=CRIX.UPBIT.USDT-ETC
-29. https://www.bcex.ca/trade/etc_usdt
-30. https://en.bithumb.com/trade/order/ETC
-31. https://bisq.network/markets/?currency=etc_btc
-32. https://www.baobi.com/en/trade?c=ETC%2FUSDT
-33. https://coinone.co.kr/exchange/trade/etc/krw
-34. https://www.coinex.com/exchange?currency=usdt&dest=etc
-35. https://www.korbit.co.kr/markets/?market=etc-krw
-36. https://www.lbank.info/exchange.html#/etc/btc
-37. https://www.hbg.com/en-us/exchange/etc_usdt/
-38. https://shapeshift.io/#/coins
-39. https://www.zb.com/trade/kline/etc_qc
+## DeFi Dashboards and Protocols
+
+- [Commonwealth](https://commonwealth.gg)
+- [Saturn Protocol](https://www.saturn.network/)
+- [Uniswap](https://uniswap.io) *coming soon*
+- more coming soon...
+
+## Centralized Exchanges
+
+- [55](https://www.55.com/exchange?symbol=ETCBTC&site=B)
+- [Baobi](https://www.baobi.com/en/trade?c=ETC%2FUSDT)
+- [BCex](https://www.bcex.ca/trade/etc_usdt)
+- [Bibox](https://www.bibox.com/exchange?coinPair=ETC_USDT)
+- [Binance](https://www.binance.com/en/trade/ETC_USDT)
+- [Bisq](https://bisq.network/markets/?currency=etc_btc)
+- [Bit-Z](https://www.bit-z.com/exchange/etc_btc)
+- [Bitfinex](https://www.bitfinex.com/t/ETCUSD)
+- [Bitforex](https://www.bitforex.com/en/spot/etc_usdt)
+- [Bithumb](https://en.bithumb.com/trade/order/ETC)
+- [Bittrex](https://international.bittrex.com/Market/Index?MarketName=USD-ETC)
+- [Catex](https://www.catex.io/trading/ETC/BTC)
+- [Coinbase Pro](https://pro.coinbase.com/trade/ETC-USD)
+- [Coinbene](https://www.coinbene.com/exchange/en_US/ETCUSDT)
+- [Coineal](https://hk.coineal.com/trade_center.html?s=etc-btc#en_US)
+- [CoinEgg](https://trade.coinegg.com/trade/etc_btc)
+- [CoinEx](https://www.coinex.com/exchange?currency=usdt&dest=etc)
+- [CoinOne](https://coinone.co.kr/exchange/trade/etc/krw)
+- [Coinsbit](https://coinsbit.io/trade/ETC_BTC)
+- [CoinSuper](https://www.coinsuper.com/trade?symbol=ETC%2FUSD)
+- [CoinTiger](https://www.cointiger.com/en-us/#/trade_pro?coin=etc_btc)
+- [Digifinex](https://www.digifinex.com/en-ww/trade/USDT/ETC)
+- [EXX](https://www.exx.com/tradeCoding/etc_usdt)
+- [HBG](https://www.hbg.com/en-us/exchange/etc_usdt/)
+- [HitBTC](https://hitbtc.com/ETC-to-BTC)
+- [IDAX](https://www.idax.pro/exchange?pairname=ETC_USDT)
+- [IDCM](https://www.idcm.io/trading/ETC_USDT)
+- [Korbit](https://www.korbit.co.kr/markets/?market=etc-krw)
+- [Kraken](https://trade.kraken.com/markets/kraken/etc/usd)
+- [LBank](https://www.lbank.info/exchange.html#/etc/btc)
+- [Multiswap](https://multiswap.io/)
+- [OKex](https://www.okex.com/market?product=etc_usdt)
+- [P2PB2B](https://p2pb2b.io/trade/ETC_BTC)
+- [Poloniex](https://poloniex.com/exchange#btc_etc)
+- [Upbit](https://sg.upbit.com/exchange?code=CRIX.UPBIT.USDT-ETC)
+- [ZB](https://trans.zb.com/markets/etcbtc)
+
+
+## Decentralized Exchanges
+
+- [Saturn](https://www.saturn.network/)
 
 
 ## Instant Exchanges
-1. https://fixedfloat.com/
-2. https://changenow.io/
-3. https://exolix.com/
-4. https://www.switchain.com
-5. https://coinmerce.io/
-6. https://www.bitladon.com/
-7. https://godex.io/
-8. https://changelly.com/
-9. https://www.coindirect.com/
-10. https://anycoindirect.eu/en
+
+- [AnyCoinDirect](https://anycoindirect.eu/en)
+- [Bitladon](https://www.bitladon.com/)
+- [Changelly](https://changelly.com/)
+- [ChangeNow](https://changenow.io/)
+- [CoinDirect](https://www.coindirect.com/)
+- [Coinmerce](https://coinmerce.io/)
+- [Exolix](https://exolix.com/)
+- [FixedFloat](https://fixedfloat.com/)
+- [GoDex](https://godex.io/)
+- [Switchain](https://www.switchain.com)
 
 Note: If your exchange is not listed, please reach out to the community via the Ethereum Classic [Discord](https://discordapp.com/invite/HW4GckH).
 
