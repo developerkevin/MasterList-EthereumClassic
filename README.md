@@ -27,9 +27,10 @@ TBD - pending final organization
 1. [Overview](#overview)
 2. [Ethereum Virtual Machine Networks](#ethereum-virtual-machine-networks)
 3. [Network Clients](#network-clients)
-4. [Developer Teams](#developer-teams)
-5. [Developer Tools](#developer-tools)
-6. [Infrastructure Tools](#infrastructure-tools)
+4. [Node Deployment Tools & API End Points](#node-deployment-tools)
+5. [Developer Teams](#developer-teams)
+6. [Developer Tools](#developer-tools)
+7. [Infrastructure Tools](#infrastructure-tools)
 
 
 ## Overview
@@ -75,6 +76,14 @@ source: [EthereumVM.net](https://ethereumvm.net/)
 | [Multi-Geth](https://github.com/multi-geth/multi-geth) | Current | [source code](https://github.com/multi-geth/multi-geth) |
 | [Parity-Ethereum](https://github.com/paritytech/parity-ethereum) | Current | [source code](https://github.com/paritytech/parity-ethereum) |
 
+## Node Deployment Tools & API End Points
+
+- [Bloq Cloud](https://bloq.cloud/)
+- [DappNode](https://dappnode.io/)
+- [Ethercluster](https://www.ethercluster.com/)
+- [Ethernode](https://ethernode.io/)
+- [QuikNode](https://quiknode.io/)
+
 
 ## Development Teams
 
@@ -115,15 +124,6 @@ source: [EthereumVM.net](https://ethereumvm.net/)
 - [SOLL](https://github.com/second-state/soll) - The LLVM compiler is finally coming to Solidity. With it, we can easily create smart contracts across multiple blockchain VMs. The EVM on Ethereum Classic and ETH 2.0's eWASM are among the first we support.
 - [Sputnikvm](https://github.com/ETCDEVTeam/sputnikvm) - SputnikVM is an open source standalone implementation of Ethereum Virtual Machine (EVM). It aims to be an efficient, pluggable virtual machine for different Ethereum-based blockchains.
 - [Truffle Suite](https://www.trufflesuite.com/) - A world class development environment, testing framework and asset pipeline for blockchains using the Ethereum Virtual Machine (EVM), aiming to make life as a developer easier.
-
-
-## Infrastructure Tools
-
-- [Bloq Cloud](https://bloq.cloud/)
-- [DappDirect](https://dappdirect.net/)
-- [Ethercluster](https://www.ethercluster.com/)
-- [Ethernode](https://ethernode.io/)
-- [QuikNode](https://quiknode.io/)
 
 
 
