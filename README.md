@@ -177,6 +177,7 @@ source: [EthereumVM.net](http://ethereumvm.net/)
 - [Arena Racing](https://arena.highlander.network/)
 - [GitCoin](https://gitcoin.co/) *coming soon*
 - [OriginalMy](https://originalmy.com/)
+- [wETC](https://wetc.app/)
 - many more planned for 2020...
 
 Note: If your dapp is not listed, please reach out to the community via the Ethereum Classic [Discord](https://discordapp.com/invite/HW4GckH).
@@ -187,7 +188,6 @@ Note: If your dapp is not listed, please reach out to the community via the Ethe
 - [Commonwealth](https://commonwealth.gg)
 - [Saturn Protocol](https://www.saturn.network/)
 - [Uniswap](https://uniswap.io) *coming soon*
-- [wETC](https://wetc.app/)
 - many more planned for 2020...
 
 ## Centralized Exchanges
@@ -252,33 +252,38 @@ Note: If your exchange is not listed, please reach out to the community via the 
 
 ## Ethereum Classic Wallets
 
-**Web3 Wallets** are browser extensions for interacting with DApps built on Ethereum based networks.
+###Browser Wallets
 
-- [MetaMask](https://metamask.io/)
-- [Nifty Wallet](https://github.com/poanetwork/nifty-wallet)
-- [Saturn Wallet](https://www.saturn.network/blog/saturn-wallet-user-manual/)
+- Interactive Browser Wallets: can be used as stand-alone wallets and as interfaces to connect through a web3 wallet or hardware wallet. *Not Recommended* but Keystores & Paper Wallets can be generated from these interfaces.
+- Stand-alone Browser Wallets: are dedicated browser wallet with no downloads designed for desktop or mobile use.
+- Web3 Wallets: are browser extensions for interacting with DApps built on Ethereum based networks.
 
-**Interactive Browser Wallets** can be used as stand-alone wallets and as interfaces to connect through a web3 wallet or hardware wallet. Not Recommended: **Keystores & Paper Wallets** can be generated from these interfaces.
+| Interactive | Stand-Alone | Web3 |
+| :---: | :---: | :---: |
+| [MyCrypto](https://www.mycrypto.com) | [Portis](https://www.portis.io/) | [MetaMask](https://metamask.io/) |
+| [MyEtherWallet](https://www.myetherwallet.com) | [Squarelink](https://squarelink.com/) | [Nifty Wallet](https://github.com/poanetwork/nifty-wallet) |
+|  |  | [Saturn Wallet](https://www.saturn.network/blog/saturn-wallet-user-manual/) |
+|  |  | [Opera](https://www.opera.com/crypto) |
 
-- [MyCrypto](https://www.mycrypto.com)
-- [MyEtherWallet](https://www.myetherwallet.com/)
+### Hardware Wallet
 
-**Hardware Wallets** are secure wallets designed for long term storage.
+are secure wallets designed for long term storage.
 
-- [Ledger](https://shop.ledger.com/pages/ledger-nano-x?r=a59f2fdba3bf)
-- [SafePal](https://www.safepal.io/) *pending affiliate link*
-- [Trezor](https://trezor.io/?offer_id=12&aff_id=1847&source=https://github.com/ethereumclassic)
+- [Bitski](https://www.bitski.com/)
+- [Ledger](https://shop.ledger.com/)
+- [SafePal](https://www.safepal.io/)
+- [Trezor](https://trezor.io/)
 
-**Stand-alone Browser Wallets** are dedicated browser wallet with no downloads designed for desktop or mobile use.
+### Software Wallets
 
-- [Portis](https://www.portis.io/)
-- [Squarelink](https://squarelink.com/)
+for Desktop or Mobile devices.
 
-**Software Wallets** for Desktop or Mobile devices.
-
+- [AToken](https://www.atoken.com/)
 - [Alpha Wallet](https://alphawallet.com/)
 - [Atomic Wallet](https://atomicwallet.io/)
+- [Button Wallet](https://buttonwallet.com/)
 - [Citowise](https://citowise.com/)
+- [Cobo](https://cobo.com/)
 - [Coinbase Wallet](https://wallet.coinbase.com/)
 - [Coinomi](https://www.coinomi.com/)
 - [Cryptonator](https://www.cryptonator.com/)
