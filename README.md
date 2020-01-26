@@ -27,11 +27,9 @@ TBD - pending final organization
 Network Information
 1. [Overview](#overview)
 2. [Ethereum Classic Virtual Machine Chains](#ethereum-classic-virtual-machine-chains)
-Network Resources
 3. [Ethereum Classic Network Clients](#ethereum-classic-network-clients)
 4. [Node Deployment Tools](#node-deployment-tools)
 5. [Network Utilities](#network-utilities)
-ETC Participants
 6. [Community Channels](#community-channels)
 7. [Developer Teams](#developer-teams)
 8. [Miners](#miners)
@@ -71,11 +69,11 @@ Technical Documentation
 | Name | Short Name | Chain | Chain ID | Network | Network ID | Repository | Consensus Mechanism | Mining Algorithm |
 | --- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | Ethereum Classic | etc | ETC | 61 | mainnet | 1 | [source code](https://github.com/ethereumclassic) | Proof-of-Work (PoW) | Ethash |
-| Astor | x | ETC | x | testnet | x | [source code](https://astor.host/) | Proof-of-Work (PoW) | Keccak256 |
+| Testnet Astor |  | ETC |  | testnet |  | [source code](https://astor.host/) | Proof-of-Work (PoW) | Keccak256 |
 | Testnet Kotti | kot | ETC | 6 | kotti | 6 | [source code](https://github.com/goerli/testnet) | Proof-of-Authority (PoA) | Reputation |
 | Testnet Mordor | metc | ETC | 63 | testnet | 7| [source code](https://github.com/eth-classic/mordor) | Proof-of-Work (PoW) | Ethash |
 
-source: [EthereumVM.net](https://ethereumvm.net/)
+source: [EthereumVM.net](http://ethereumvm.net/)
 
 
 ## Ethereum Classic Network Clients
@@ -87,7 +85,7 @@ source: [EthereumVM.net](https://ethereumvm.net/)
 | [Mantis](https://github.com/input-output-hk/mantis) | *Deprecated* | [source code](https://github.com/input-output-hk/mantis) |
 | [Mist Classic](https://github.com/ethereumproject/mist) | *Obsolete* | [source code](https://github.com/ethereumproject/mist) |
 | [Multi-Geth](https://github.com/multi-geth/multi-geth) | Maintained | [source code](https://github.com/multi-geth/multi-geth) |
-| [Parity-Ethereum](https://github.com/paritytech/parity-ethereum) | Maintained | [source code](https://github.com/paritytech/parity-ethereum) |
+| [Parity-Ethereum](https://www.parity.io/) | Maintained | [source code](https://github.com/paritytech/parity-ethereum) |
 
 
 ## Node Deployment Tools
@@ -101,33 +99,33 @@ source: [EthereumVM.net](https://ethereumvm.net/)
 
 ## Network Utilities
 
-| Network | Block Explorers| Monitor | Faucet |
-| :---: | :---: | :---: | :---: |
-| [Ethereum Classic](https://github.com/ethereumclassic) | [BlockScout](https://blockscout.com/etc/mainnet/), [Emerald Receipt](https://receipt.emeraldpay.io/) [ETCBlockExplorer](https://etcblockexplorer.com/home), [ETCPlanet](https://etcplanet.org/), [Expedition](https://expedition.dev/?network=mainnet), [MinerGate](https://minergate.com/blockchain/etc/blocks), [TheMinersPond](https://theminerspond.com/ethereumclassic/explorer/home), [Tokenview](https://etc.tokenview.com/en/) | [2Miners](https://2miners.com/etc-stats/), [CoinMetrics](https://coinmetrics.io/charts/#assets=etc), [CoinWarz](https://www.coinwarz.com/mining/ethereum-classic), [Emerald Insights](https://insights.emeraldpay.io/), [ETCNodes](https://etcnodes.org/), [ETCStats](https://etcstats.org), [ETCStatus](https://etcstatus.live/), [MiningPoolStats](https://miningpoolstats.stream/ethereumclassic), [Nanopool](https://etc.nanopool.org/stats), [WhatToMine](https://whattomine.com/coins/162-etc-ethash) | x |
-| [Astor](https://astor.host/) | [Astor Explorer](https://explore.astor.host/) | [Astor Stats](https://stats.astor.host/) | x |
-| [Kotti](https://github.com/goerli/testnet) | [BlockScout](https://kotti.etccoopexplorer.com/), [Expedition](https://expedition.dev/?network=kotti) | [Kotti Stats](http://stats.kotti.goerli.net/) | [Yes](http://kottifaucet.me/) |
-| [Mordor](https://github.com/eth-classic/mordor) | [BlockScout](https://mordor.etccoopexplorer.com/), [Expedition](https://expedition.dev/?network=mordor) | x | [Yes](http://mordor.canhaz.net/) |
-
-
-## Blockchain Utilities
-
 | Network | Block Explorers| Monitor | Faucet | Public API Endpoints |
 | :---: | :---: | :---: | :---: | :---: |
-| [Ethereum Classic](https://github.com/ethereumclassic) | [BlockScout](https://blockscout.com/etc/mainnet/), [Emerald Receipt](https://receipt.emeraldpay.io/) [ETCBlockExplorer](https://etcblockexplorer.com/), [ETCPlanet](https://etcplanet.org/), [EthereumMain.net](https://ethereummain.net/), [Expedition](https://expedition.dev/?network=mainnet), [MinerGate](https://minergate.com/blockchain/etc/blocks), [TheMinersPond](https://theminerspond.com/ethereumclassic/explorer/home), [Tokenview](https://etc.tokenview.com/) | [2Miners](https://2miners.com/etc-stats/), [CoinMetrics](https://coinmetrics.io/charts/#assets=etc), [CoinWarz](https://www.coinwarz.com/mining/ethereum-classic), [Emerald Insights](https://insights.emeraldpay.io/), [ETCNodes](https://etcnodes.org/), [ETCStats](http://etcstats.org), [ETCStatus](https://etcstatus.live/), [EtherStats](http://etherstats.net), [MiningPoolStats](https://miningpoolstats.stream/ethereumclassic), [Nanopool](https://etc.nanopool.org/stats), [WhatToMine](https://whattomine.com/coins/162-etc-ethash) | x | [BlockScout](https://blockscout.com/etc/mainnet/api_docs), [Ethercluster](https://www.ethercluster.com/etc) |
-| [Astor](https://astor.host/) | [Astor Explorer](https://explore.astor.host/), [EthereumTest.net](http://astor.ethereumtest.net) | [Astor Stats](https://stats.astor.host/), [ETCStats](http://astor.etcstats.org) | x | x |
-| [Kotti](https://github.com/goerli/testnet) | [BlockScout](https://kotti.etccoopexplorer.com/), [EthereumTest.net](http://kotti.ethereumtest.net), [Expedition](https://expedition.dev/?network=kotti) | [ETCNodes](https://kotti.etcnodes.org/), [ETCStats](http://kotti.etcstats.org), [Kotti Stats](http://stats.kotti.goerli.net/), [Expedition](https://expedition.dev/?network=kotti) | [1](http://kottifaucet.me/), [2](http://kotti.etherdrip) | [Ethercluster](https://www.ethercluster.com/kotti) |
-| [Mordor](https://github.com/eth-classic/mordor) | [ETCCoopExplorer](https://mordor.etccoopexplorer.com/), [EthereumTest.net](http://mordor.ethereumtest.net), [Expedition](https://expedition.dev/?network=mordor) | [ETCStats](http://mordor.etcstats.org), [Expedition](https://expedition.dev/?network=mordor) | [1](http://mordor.canhaz.net/), [2](http://mordor.etherdrip) | x |
+| [Ethereum Classic](https://ethereumclassic.org) | [BlockScout](https://blockscout.com/etc/mainnet/), [Emerald Receipt](https://receipt.emeraldpay.io/) [ETCBlockExplorer](https://etcblockexplorer.com/), [ETCPlanet](https://etcplanet.org/), [EthereumMain.net](http://ethereummain.net/), [Expedition](https://expedition.dev/?network=mainnet), [MinerGate](https://minergate.com/blockchain/etc/blocks), [TheMinersPond](https://theminerspond.com/ethereumclassic/explorer/home), [Tokenview](https://etc.tokenview.com/) | [2Miners](https://2miners.com/etc-stats/), [CoinMetrics](https://coinmetrics.io/charts/#assets=etc), [CoinWarz](https://www.coinwarz.com/mining/ethereum-classic), [Emerald Insights](https://insights.emeraldpay.io/), [ETCNodes](https://etcnodes.org/), [ETCStats](http://etcstats.org), [ETCStatus](https://etcstatus.live/), [EtherStats](http://etc.etherstats.net), [MiningPoolStats](https://miningpoolstats.stream/ethereumclassic), [Nanopool](https://etc.nanopool.org/stats), [WhatToMine](https://whattomine.com/coins/162-etc-ethash) | x | [BlockScout](https://blockscout.com/etc/mainnet/api_docs), [Ethercluster](https://www.ethercluster.com/etc) |
+| [Astor](https://astor.host/) | [Astor Explorer](https://explore.astor.host/), [EthereumTest.net](http://astor.ethereumtest.net) | [Astor Stats](https://stats.astor.host/), [ETCStats](http://astor.etcstats.org), [EtherStats](http://astor.etherstats.net) | [1](http://astor.etherdrip.net) | x |
+| [Kotti](https://github.com/goerli/testnet) | [BlockScout](https://kotti.etccoopexplorer.com/), [EthereumTest.net](http://kotti.ethereumtest.net), [Expedition](https://expedition.dev/?network=kotti) | [ETCNodes](https://kotti.etcnodes.org/), [ETCStats](http://kotti.etcstats.org), [EtherStats](http://kotti.etherstats.net), [Kotti Stats](http://stats.kotti.goerli.net/), [Expedition](https://expedition.dev/?network=kotti) | [1](http://kottifaucet.me/), [2](http://kotti.etherdrip.net) | [Ethercluster](https://www.ethercluster.com/kotti) |
+| [Mordor](https://github.com/eth-classic/mordor) | [ETCCoopExplorer](https://mordor.etccoopexplorer.com/), [EthereumTest.net](http://mordor.ethereumtest.net), [Expedition](https://expedition.dev/?network=mordor) | [ETCStats](http://mordor.etcstats.org), [EtherStats](http://mordor.etherstats.net), [Expedition](https://expedition.dev/?network=mordor) | [1](http://mordor.canhaz.net/), [2](http://mordor.etherdrip.net) | x |
 
+Gas Fee Estimators:
+- [ETCGas](http://etcgas.net)
+- [EtherGas](http://etc.ethergas.net)
+- [ETHGasStation](https://ethgasstation.info/)
+- [Expedition](https://expedition.dev/?network=mainnet)
+- [GasGauge](http://etc.gasgauge.org)
 
+Dapp Lists:
+- [CryptoGround](https://www.cryptoground.com/dapp)
+- [CoinCodex](https://coincodex.com/dapp-list/)
+- [Dapp.com](https://www.dapp.com/ja/search)
+- [DappDirect](https://dappdirect.net/)
+- [DappRadar](https://dappradar.com/)
+- [DappStatus](https://dappstatus.com/)
+- [State of the Dapps](https://www.stateofthedapps.com/)
 
-
-
-
-
-
-
-
-
+DeFi Monitors:
+- [DeFi Prime](https://defiprime.com/)
+- [DeFi Pulse](https://defipulse.com/)
+- [LoanScan](https://loanscan.io/)
 
 # Ethereum Classic Participants
 
@@ -311,14 +309,6 @@ Ethereum Project Documentation.
 - [Yellowpaper](https://ethereum.github.io/yellowpaper/paper.pdf) - Technical description of Ethereum. Technically outdated, but interesting.
 
 
-## Blockchain Utilities
-
-| Network | Block Explorers| Monitor | Faucet |
-| :---: | :---: | :---: | :---: |
-| [Ethereum Classic](https://github.com/ethereumclassic) | [BlockScout](https://blockscout.com/etc/mainnet/), [Emerald Receipt](https://receipt.emeraldpay.io/) [ETCBlockExplorer](https://etcblockexplorer.com/home), [ETCPlanet](https://etcplanet.org/), [Expedition](https://expedition.dev/?network=mainnet), [MinerGate](https://minergate.com/blockchain/etc/blocks), [TheMinersPond](https://theminerspond.com/ethereumclassic/explorer/home), [Tokenview](https://etc.tokenview.com/en/) | [2Miners](https://2miners.com/etc-stats/), [CoinMetrics](https://coinmetrics.io/charts/#assets=etc), [CoinWarz](https://www.coinwarz.com/mining/ethereum-classic), [Emerald Insights](https://insights.emeraldpay.io/), [ETCNodes](https://etcnodes.org/), [ETCStats](https://etcstats.org), [ETCStatus](https://etcstatus.live/), [MiningPoolStats](https://miningpoolstats.stream/ethereumclassic), [Nanopool](https://etc.nanopool.org/stats), [WhatToMine](https://whattomine.com/coins/162-etc-ethash) | x |
-| [Astor](https://astor.host/) | [Astor Explorer](https://explore.astor.host/) | [Astor Stats](https://stats.astor.host/) | x |
-| [Kotti](https://github.com/goerli/testnet) | [BlockScout](https://kotti.etccoopexplorer.com/), [Expedition](https://expedition.dev/?network=kotti) | [Kotti Stats](http://stats.kotti.goerli.net/) | [Yes](http://kottifaucet.me/) |
-| [Mordor](https://github.com/eth-classic/mordor) | [BlockScout](https://mordor.etccoopexplorer.com/), [Expedition](https://expedition.dev/?network=mordor) | x | [Yes](http://mordor.canhaz.net/) |
 
 ## Ethereum Classic Wallets
 
@@ -554,7 +544,6 @@ Descriptions and implementations of Ethereum-related protocols.
 
 ## Miscellaneous
 
-- [State of the DApps](https://www.stateofthedapps.com/) - A comprehensive list of the Decentralized Applications (DApps) on Ethereum.
 - [Week in Ethereum News](https://weekinethereumnews.com/) - A summary of everything happening in Ethereum each week.
 - [Ethereum Worldwide Meetups](https://www.meetup.com/find/?allMeetups=false&keywords=ethereum) - Meet up with the local Ethereum community via meetup.com.
 - [Community Ethereum Wiki Page](https://eth.wiki/)
