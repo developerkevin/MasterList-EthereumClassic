@@ -254,7 +254,7 @@ Note: If your exchange is not listed, please reach out to the community via the 
 
 ### Browser Wallets
 
-- Interactive Browser Wallets: can be used as stand-alone wallets and as interfaces to connect through a web3 wallet or hardware wallet. *Not Recommended* but Keystores & Paper Wallets can be generated from these interfaces.
+- Interactive Browser Wallets: can be used as stand-alone wallets and as interfaces to connect through a web3 wallet or hardware wallet. *Not Recommended:* Keystores & Paper Wallets can be generated from these interfaces.
 - Stand-alone Browser Wallets: are dedicated browser wallet with no downloads designed for desktop or mobile use.
 - Web3 Wallets: are browser extensions for interacting with DApps built on Ethereum based networks.
 
