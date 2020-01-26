@@ -262,8 +262,8 @@ Note: If your exchange is not listed, please reach out to the community via the 
 | :---: | :---: | :---: |
 | [MyCrypto](https://www.mycrypto.com) | [Portis](https://www.portis.io/) | [MetaMask](https://metamask.io/) |
 | [MyEtherWallet](https://www.myetherwallet.com) | [Squarelink](https://squarelink.com/) | [Nifty Wallet](https://github.com/poanetwork/nifty-wallet) |
-|  |  | [Saturn Wallet](https://www.saturn.network/blog/saturn-wallet-user-manual/) |
 |  |  | [Opera](https://www.opera.com/crypto) |
+|  |  | [Saturn Wallet](https://www.saturn.network/blog/saturn-wallet-user-manual/) |
 
 ### Hardware Wallet
 
@@ -321,7 +321,7 @@ Note: If your wallet is not listed, please reach out to the community via the Et
 - [Github](https://github.com/ethereumclassic)
 
 ### Twitter
-- Twitter: [China](https://twitter.com/EthereumChina), [China](https://twitter.com/ETCChina), [English](https://twitter.com/EthereumClassic), [English](https://twitter.com/eth_classic), [Español](https://twitter.com/ethclassicesp), [German](https://twitter.com/GermanyEtc), [Italia](https://twitter.com/etcitalia), [Korea](https://twitter.com/etckorea1), [Korea](https://twitter.com/ethclassic_kor), [Japan](https://twitter.com/ETCJapan), [Netherlands](https://twitter.com/etcnetherlands), [Pilipinas](https://twitter.com/ETC_Philippines), [Sri Lanka](https://twitter.com/etcSriLanka), [Viet Nam](https://twitter.com/ETCVietNam)
+- Twitter: [China](https://twitter.com/EthereumChina), [China](https://twitter.com/ETCChina), [English](https://twitter.com/EthereumClassic), [English](https://twitter.com/eth_classic), [Español](https://twitter.com/ethclassicesp), [German](https://twitter.com/GermanyEtc), [Italia](https://twitter.com/etcitalia), [Japan](https://twitter.com/ETCJapan), [Korea](https://twitter.com/etckorea1), [Korea](https://twitter.com/ethclassic_kor), [Netherlands](https://twitter.com/etcnetherlands), [Pilipinas](https://twitter.com/ETC_Philippines), [Sri Lanka](https://twitter.com/etcSriLanka), [Viet Nam](https://twitter.com/ETCVietNam)
 
 ### Websites
 - [EthereumClassic.org](https://ethereumclassic.org)
