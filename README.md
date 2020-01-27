@@ -641,3 +641,5 @@ related or neighboring rights to this work. For the full license see `LICENSE`.
 <div align="center">
   <img width="750px" src="./images/ethereum_classic_phoenix_green_full.png">
   </div>
+# Ethereum Classic
+# Phoenix Rising
