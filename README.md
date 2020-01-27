@@ -132,12 +132,12 @@ source: [EthereumVM.net](http://ethereumvm.net/)
 
 ## Network Public Utilities
 
-| Network | Block Explorers| Monitors | Faucets | Public API Endpoints |
+| Network | Block Explorers| Monitors | Faucets | Public Endpoints |
 | :---: | --- | --- | :---: | :---: |
 | [Ethereum Classic](https://ethereumclassic.org) | [BlockScout](https://blockscout.com/etc/mainnet/), [Emerald Receipt](https://receipt.emeraldpay.io/) [ETCBlockExplorer](https://etcblockexplorer.com/), [ETCPlanet](https://etcplanet.org/), [EthereumMain.net](http://ethereummain.net/), [Expedition](https://expedition.dev/?network=mainnet), [MinerGate](https://minergate.com/blockchain/etc/blocks), [TheMinersPond](https://theminerspond.com/ethereumclassic/explorer/home), [Tokenview](https://etc.tokenview.com/) | [2Miners](https://2miners.com/etc-stats/), [CoinMetrics](https://coinmetrics.io/charts/#assets=etc), [CoinWarz](https://www.coinwarz.com/mining/ethereum-classic), [Emerald Insights](https://insights.emeraldpay.io/), [ETCNodes](https://etcnodes.org/), [ETCStats](http://etcstats.org), [ETCStatus](https://etcstatus.live/), [EtherStats](http://etc.etherstats.net), [MiningPoolStats](https://miningpoolstats.stream/ethereumclassic), [Nanopool](https://etc.nanopool.org/stats), [WhatToMine](https://whattomine.com/coins/162-etc-ethash) | x | [BlockScout](https://blockscout.com/etc/mainnet/api_docs), [Ethercluster](https://www.ethercluster.com/etc) |
 | [Astor](https://astor.host/) | [Astor Explorer](https://explore.astor.host/), [EthereumTest.net](http://astor.ethereumtest.net) | [Astor Stats](https://stats.astor.host/), [ETCStats](http://astor.etcstats.org), [EtherStats](http://astor.etherstats.net) | [1](http://astor.etherdrip.net) | x |
 | [Kotti](https://github.com/goerli/testnet) | [BlockScout](https://kotti.etccoopexplorer.com/), [EthereumTest.net](http://kotti.ethereumtest.net), [Expedition](https://expedition.dev/?network=kotti) | [ETCNodes](https://kotti.etcnodes.org/), [ETCStats](http://kotti.etcstats.org), [EtherStats](http://kotti.etherstats.net), [Kotti Stats](http://stats.kotti.goerli.net/), [Expedition](https://expedition.dev/?network=kotti) | [1](http://kottifaucet.me/), [2](http://kotti.etherdrip.net) | [Ethercluster](https://www.ethercluster.com/kotti) |
-| [Mordor](https://github.com/eth-classic/mordor) | [ETCCoopExplorer](https://mordor.etccoopexplorer.com/), [EthereumTest.net](http://mordor.ethereumtest.net), [Expedition](https://expedition.dev/?network=mordor) | [ETCStats](http://mordor.etcstats.org), [EtherStats](http://mordor.etherstats.net), [Expedition](https://expedition.dev/?network=mordor) | [1](http://mordor.canhaz.net/), [2](http://mordor.etherdrip.net) | x |
+| [Mordor](https://github.com/eth-classic/mordor) | [ETCCoopExplorer](https://mordor.etccoopexplorer.com/), [EthereumTest.net](http://mordor.ethereumtest.net), [Expedition](https://expedition.dev/?network=mordor) | [ETCStats](http://mordor.etcstats.org), [EtherStats](http://mordor.etherstats.net), [Expedition](https://expedition.dev/?network=mordor) | [1](http://mordor.canhaz.net/), [2](http://mordor.etherdrip.net) | [Ethercluster](https://www.ethercluster.com/mordor) |
 
 ### Gas Fee Estimators:
 
@@ -147,7 +147,7 @@ source: [EthereumVM.net](http://ethereumvm.net/)
 - [Expedition](https://expedition.dev/?network=mainnet)
 - [GasGauge](http://etc.gasgauge.org)
 
-### Dapp Lists:
+### Dapp Aggregators:
 
 - [CryptoGround](https://www.cryptoground.com/dapp)
 - [CoinCodex](https://coincodex.com/dapp-list/)
@@ -171,82 +171,63 @@ source: [EthereumVM.net](http://ethereumvm.net/)
 
 # Ethereum Classic Ecosystem
 
-## Dapps
+## Active Dapps
 
 - [Alien Farm](https://alienfarm.highlander.network/)
 - [Arena Racing](https://arena.highlander.network/)
-- [GitCoin](https://gitcoin.co/) *coming soon*
+- [Commonwealth](https://commonwealth.gg)
+- [GitCoin](https://gitcoin.co/)
+- [ONEX Network](https://onex.network/)
 - [OriginalMy](https://originalmy.com/)
 - [Stampery](https://stampery.com/)
+- [ePOC](https://etc.poc35.co/)
 - [Portal.Network](https://www.portal.network/)
 - [wETC](https://wetc.app/)
-- many more planned for 2020...
 
 Note: If your dapp is not listed, please reach out to the community via the Ethereum Classic [Discord](https://discordapp.com/invite/HW4GckH).
 
 
-## DeFi Dashboards and Protocols
+## Notable Centralized Exchanges (ETC/USD)
 
-- [Commonwealth](https://commonwealth.gg)
-- [Saturn Protocol](https://www.saturn.network/)
-- [Uniswap](https://uniswap.io) *coming soon*
-- many more planned for 2020...
-
-## Centralized Exchanges
-
-- [55](https://www.55.com/exchange?symbol=ETCBTC&site=B)
-- [Baobi](https://www.baobi.com/en/trade?c=ETC%2FUSDT)
-- [BCex](https://www.bcex.ca/trade/etc_usdt)
-- [Bibox](https://www.bibox.com/exchange?coinPair=ETC_USDT)
 - [Binance](https://www.binance.com/en/trade/ETC_USDT)
-- [Bisq](https://bisq.network/markets/?currency=etc_btc)
-- [Bit-Z](https://www.bit-z.com/exchange/etc_btc)
-- [Bitfinex](https://www.bitfinex.com/t/ETCUSD)
-- [Bitforex](https://www.bitforex.com/en/spot/etc_usdt)
-- [Bithumb](https://en.bithumb.com/trade/order/ETC)
-- [Bittrex](https://international.bittrex.com/Market/Index?MarketName=USD-ETC)
-- [Catex](https://www.catex.io/trading/ETC/BTC)
+- [Binance US](https://www.binance.us/en/trade/ETC_USD)
+- [Bitfinex](https://www.bitfinex.com/t/ETC:USD)
+- [Bithumb](https://www.bithumb.com/trade/order/ETCKRW)
+- [Bittrex](https://bittrex.com/Market/Index?MarketName=USD-ETC)
 - [Coinbase Pro](https://pro.coinbase.com/trade/ETC-USD)
-- [Coinbene](https://www.coinbene.com/exchange/en_US/ETCUSDT)
-- [Coineal](https://hk.coineal.com/trade_center.html?s=etc-btc#en_US)
-- [CoinEgg](https://trade.coinegg.com/trade/etc_btc)
-- [CoinEx](https://www.coinex.com/exchange?currency=usdt&dest=etc)
-- [CoinOne](https://coinone.co.kr/exchange/trade/etc/krw)
-- [Coinsbit](https://coinsbit.io/trade/ETC_BTC)
-- [CoinSuper](https://www.coinsuper.com/trade?symbol=ETC%2FUSD)
-- [CoinTiger](https://www.cointiger.com/en-us/#/trade_pro?coin=etc_btc)
-- [Digifinex](https://www.digifinex.com/en-ww/trade/USDT/ETC)
-- [EXX](https://www.exx.com/tradeCoding/etc_usdt)
-- [HBG](https://www.hbg.com/en-us/exchange/etc_usdt/)
-- [HitBTC](https://hitbtc.com/ETC-to-BTC)
-- [IDAX](https://www.idax.pro/exchange?pairname=ETC_USDT)
-- [IDCM](https://www.idcm.io/trading/ETC_USDT)
-- [Korbit](https://www.korbit.co.kr/markets/?market=etc-krw)
+- [Gate.io](https://gate.io/trade/etc_usdt)
+- [HitBTC](https://hitbtc.com/ETC-to-USDT)
+- [Huobi Global](https://www.hbg.com/en-us/exchange/etc_usdt/)
+- [Huobi Korea](https://www.huobi.co.kr/en-US/exchange/etc_usdt/)
 - [Kraken](https://trade.kraken.com/markets/kraken/etc/usd)
-- [LBank](https://www.lbank.info/exchange.html#/etc/btc)
-- [Multiswap](https://multiswap.io/)
-- [OKex](https://www.okex.com/market?product=etc_usdt)
-- [P2PB2B](https://p2pb2b.io/trade/ETC_BTC)
-- [Poloniex](https://poloniex.com/exchange#btc_etc)
-- [Upbit](https://sg.upbit.com/exchange?code=CRIX.UPBIT.USDT-ETC)
-- [ZB](https://trans.zb.com/markets/etcbtc)
+- [Kucoin](https://www.kucoin.com/trade/ETC-USDT)
+- [OKCoin](https://www.okcoin.com/spot/trade#product=etc_usd)
+- [OKEx](https://www.okex.com/market?product=etc_usdt)
+- [OKEx Korea](https://okex.co.kr/kr/view/trade/order)
+- [Poloniex](https://poloniex.com/exchange#usdt_etc)
+- [Upbit](https://upbit.com/exchange?code=CRIX.UPBIT.KRW-ETC)
+- [Yobit](https://yobit.net/en/trade/ETC/BTC)
 
 
 ## Decentralized Exchanges
 
+- [Bisq](https://bisq.network/markets/?currency=etc_btc)
+- [exnce](https://exnce.com/)
 - [Saturn](https://www.saturn.network/)
 
 
 ## Instant Exchanges
+*Note:* These have worse rates than Centralized Exchanges.
 
-- [AnyCoinDirect](https://anycoindirect.eu/en)
-- [Bitladon](https://www.bitladon.com/)
+- [AnyCoinDirect](https://anycoindirect.eu/en/buy-ethereum-classic)
+- [Bitladon](https://www.bitladon.com/ethereum-classic)
 - [Changelly](https://changelly.com/)
 - [ChangeNow](https://changenow.io/)
 - [CoinDirect](https://www.coindirect.com/)
 - [Coinmerce](https://coinmerce.io/)
+- [CoinSwitch](https://coinswitch.co/)
+- [Coinveer](https://coinveer.com/)
 - [Exolix](https://exolix.com/)
-- [FixedFloat](https://fixedfloat.com/)
 - [GoDex](https://godex.io/)
 - [Switchain](https://www.switchain.com)
 
@@ -299,6 +280,109 @@ for Desktop or Mobile devices.
 - [Trust Wallet](https://trustwallet.com/)
 
 Note: If your wallet is not listed, please reach out to the community via the Ethereum Classic [Discord](https://discordapp.com/invite/HW4GckH).
+
+
+# DeFi  Ecosysem Migration Project
+
+## DeFi Project List
+- [Ampleforth]() - a digital-asset-protocol for smart commodity-money.
+- [Augmint]() - a smart contract platform that issues stable tokens targeted 1:1 to the EUR backed by collateral
+- [Augur] - a decentralized oracle and peer-to-peer protocol for prediction markets on Ethereum that lets anyone create a market around the outcome of any real-world event
+- [Bancor]() - a protocol on Ethereum for non-custodial token exchange using pooled liquidity.
+- [Betoken]() - An open crypto fund managed by code and meritocracy
+- [bZx]() - a decentralized protocol that enables lending and borrowing for margin trading
+- [Compound]() - an open-source money market protocol on Ethereum that lets users lend or borrow assets against collateral
+- [Connext]() - a non-custodial layer 2 payment-channel technology that enables off-chain, instant payments with low (or zero) transaction costs, helping scale the Ethereum network and paving the way for use cases like micropayments
+- [DeFiner]() - a globally available, decentralized lending marketplace to securely borrow and lend digital assets through smart-contracts
+- Dharma - a peer-to-peer marketplace on Ethereum for non-custodial lending and borrowing of cryptocurrencies built on an extensible open source protocol
+- DutchX - a fully decentralized trading protocol that allows anyone to add any trading token pair
+- dYdX - a non-custodial trading platform on Ethereum geared toward experienced traders
+- ETHLend (by Aave) - a P2P lending platform for fixed duration loans
+- Dex blue - a smart-contract escrow-based decentralized exchange with off-chain price negotiation
+- Flexa - a payment network that enables merchants to accept digital currencies without the risk of fraud or volatility through off-chain collateralization.
+- Fuse - a blockchain payment integration for businesses
+- Helena - a smart contract platform with gamified prediction markets
+- KyberSwap - an on-chain liquidity protocol that lets users perform swaps with liquidity from token holder reserves
+- Lightning Network - a Layer 2 protocol on top of Bitcoin that seeks to improve scalability by moving small and frequent transactions off-chain, allowing for fast peer-to-peer transactions and low fees.
+- Liquidity Network - a Layer 2 scalability solution that enables gas-less, near-instant trustless transactions & token swaps
+- Local Ethereum - a non - custodial peer-to-peer ETH marketplace featuring end to end encryption and on -chain escrow.
+- Loom Network - a DPOS layer 2 scaling solution that allows developers to run large-scale applications on top of Ethereum
+- Loopring - an open source protocol for decentralized exchanges designed to provide matching-as-a-service, and its orders are unidirectional and do not differentiate takers and makers giving complete control to traders
+- Maker - a decentralized credit platform on Ethereum that supports Dai, a stablecoin whose value is pegged to USD and backed in ETH or BAT
+- Market Protocol - a protocol on Ethereum which offers tokenized leverage trading of anything asset through synthetic pricing
+- Melon - an open-source, community-run protocol for asset management on Ethereum. Melon lets users create, manage, and invest in decentralized funds composed of ETH and ERC20s
+- MerkleX - a decentralized exchange that uses a decentralized clearing network. Merklex allows traders to set limits on what can happen to their funds.
+- Monolith - a decentralised banking alternative, powered by Ethereum.
+- Neutral - a meta-stablecoin system built using a basket of multiple stablecoins to generate a lower volatility token with a reduced risk profile
+- Nexus Mutual - a decentralized insurance platform where people can share risk particularly against smart contract bugs, failure or other black swan events
+- Nitrogen Network - a decentralized P2P network for secured loans
+- Nuo Network - a non-custodial platform on Ethereum that provides a decentralized debt marketplace. Users can lend, borrow, or margin trade any supported cryptoasset
+- Ren - a provider of inter-blockchain liquidity for all decentralized applications
+- Request Network - an open network for transaction requests. It allows anyone to create, store and access invoices and receipts in a universal, decentralized network.
+- Set Protocol - a protocol designed to create, manage, and obtain baskets of tokenized assets
+- Synthetix - a decentralized platform on Ethereum for the creation of Synths: on-chain synthetic assets that track the value of real-world assets
+- Tokentax - an easy to use cryptocurrency & DeFi taxes calculator
+- Totle - a decentralized liquidity provider where you can swap and transfer tokens while automatically getting the best prices from decentralized exchanges
+- UMA - a decentralized protocol to enable the creation, maintenance, and settlement of financial contracts for any underlying asset
+- Uniswap - a fully decentralized on-chain protocol for token exchanges on Ethereum that uses liquidity pools instead of order books
+- USDx - USDx is a decentralized and synthetic indexed stablecoin introduced by dForce. - - USDx's initial underlying portfolios include USDC, TUSD, PAX and DAI
+- WBTC - an ERC20 token that is backed 1:1 by bitcoin.
+- xDai - an Ethereum sidechain with 5-second block times, low gas prices, and a native token that’s also called xDai.
+
+## DeFi wallets
+
+- Alpha Wallet - a mobile-based wallet built for Dapps. Do everything with only a few taps.
+- Argent - a secure smart contract wallet built for simplicity, security and usability.
+- Ash - a wallet interface focused on DeFi asset management powered by Melon Protocol
+- Atomex - a multicurrency HD wallet with built-in hybrid atomic swap exchange
+- Eidoo - a non-custodial wallet that allows users to store, exchange and transact cryptoassets with a wide range of DeFi services and tools.
+- Fetch - a DeFi forward wallet with integrated DEX trading and portfolio management tools
+- Gnosis Safe - a secure way to manage funds and interact with decentralized applications on Ethereum
+- Poketto - a wallet that you can actually show to your parents
+
+## DeFi interfaces
+
+- Bamboo Relay - a 0x relayer built to trade, lend, and borrow tokens directly from your wallet.
+- DDEX - Decentralized Margin TradingTrade with leverage and earn passive income in DeFi
+- DeFi Saver - an easy to use management portal for MakerDAO CDPs and compound protfolios
+- DEX AG - a trading interface that finds you the best price from 11 different DEXes
+- dForce Network - a decentralized finance protocol, starting with the first synthetic indexed stablecoin — USDx
+- EasyCDP - an interface for MakerDAO that vastly simplifies the process of opening and managing a CDP
+- FiatDex Gateway - a simple browser-based interface to interact with the FiatDex protocol which allows users to trustlessly swap fiat to crypto
+- InstaDApp - an intuitive interface on top of the MakerDAO protocol that’s optimized for users lacking advanced technical or financial experience
+- Unspent - a dashboard for all crypto and open finance activity: investing, trading, lending & borrowing
+- Zerion - an easy to use trustless banking interface utilizing popular DeFi protocols
+
+## DeFi Analytics
+
+- 0x Tracker - a trade explorer for 0x protocol and decentralized ERC20 token price index
+- Coin Interest Rate - a dashboard showcasing borrowing and lending rates for USDC and DAI
+- DefiScan - a read-only DeFi profile explorer for Compound, Uniswap, and SpankChain
+- Loan Scan - a dashboard showing the best rates to earn passive income or lowest rates to borrow crypto
+- UniswapROI - a calculator to help you analyze your investments in Uniswap and find the best liquidity pools
+- Whois0x - a database of wallet addresses and their linked social media accounts that also provides easy to understand DeFi stats for each address
+
+## Podcasts
+- Chris Blec - a collection of demos for various DeFi products, targeted to beginner & intermediate users.
+- Into the Ether Podcast - a podcast focusing on all things related to Ethereum, the leading blockchain for decentralized applications.
+- Wyre Podcast - a podcast where Thomas Scaria interviews founders of top DeFi projects twice a month. Giving insight to their business as well as the technical challenges that they have overcome.
+
+## DeFi Newletters
+- Bankless - the ultimate guide to crypto finance written by Ryan Sean Adams
+- DeFi Prime - a list of the best Decentralized Finance Products
+- DeFi Tutorial - a newsletter focused on teaching and educating readers about DeFI with hands on video tutorials
+- DeFi Weekly - a weekly in-depth review of technical achievements within decentralized finance
+- Dose of DeFi - a weekly newsletter that specializes in deep dives on topics in the space
+- EthHub Weekly Newsletter - a collection of the week's Ethereum and cryptocurrency news curated by the founders of EthHub
+- My Two Gwei - a bi-weekly interview-format newsletter related to crypto trading and DeFi
+- The Defiant - a curated list of daily news in the DeFi space explained and conensed down to a digestable level by Camila Russo
+
+## DeFi Communities
+- Concourse Open Community - an open community of builders, enthusiasts and researchers working towards a free, bountiful and decentralized future for everyone
+- DeFi Nation - a DeFi-oriented community featuring discussions, walk-throughs, Q&A calls and more
+
+
+
 
 
 # Ethereum Classic Participants
@@ -550,9 +634,14 @@ Learn about the theory behind Ethereum.
 - [Ethereum Wiki Philosophy](https://github.com/ethereum/ethereum.org/wiki/Philosophy) - Some of the core philosophies of Ethereum.
 - [Ethereum Improvement Proposals](https://eips.ethereum.org/) - Standards for the Ethereum platform, including core protocol specifications, client APIs, and contract standards.
 
-2. The ideas behind the continuation of the original Ethereum project and the Ethereum Classic chain (ETC).
+2. The ideas behind the continuation of the original Ethereum project and the Ethereum Classic chain (ETC). *Note:* There is no leader in Ethereum Classic.
 
-- [Etherplan](https://etherplan.com/)
+- [Ethereum Classic Principles](https://etherplan.com/2019/08/14/ethereum-classic-principles/8575/)
+- [Ethereum Classic Vision](https://etherplan.com/2019/08/14/ethereum-classic-vision/8595/)
+- [Ethereum Classic Opportunities](https://etherplan.com/2019/08/14/ethereum-classic-opportunities/8614/)
+- [How to Have a Vision for Ethereum Classic Without Creating a Governance Orgy](https://etherplan.com/2019/07/22/how-to-have-a-vision-for-ethereum-classic-without-creating-a-governance-orgy/8359/)
+- [The Ethereum Classic vs Ethereum 1.x Dichotomy](https://etherplan.com/2019/09/18/the-ethereum-classic-vs-ethereum-1-x-dichotomy/8752/)
+- [Ethereum Classic vs Ethereum 2.0, What is the Difference?](https://etherplan.com/2019/07/23/ethereum-classic-vs-ethereum-2-0-what-is-the-difference/8425/)
 
 
 ## Videos
