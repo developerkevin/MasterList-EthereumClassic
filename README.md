@@ -23,58 +23,7 @@ A non-exhaustive list related to the <a href="https://ethereumclassic.org/">Ethe
 
 # Ethereum Classic Master List
 
-## Contents
-
-**Network Information**
-
-1. [Overview](#overview)
-2. [Ethereum Classic Virtual Machine Chains](#ethereum-classic-virtual-machine-chains)
-
-**Network Resources**
-
-3. [Ethereum Classic Network Clients](#ethereum-classic-network-clients)
-4. [Node Deployment Tools](#node-deployment-tools)
-5. [Network Public Utilities](#network-public-utilities)
-
-**Ethereum Classic Ecosystem**
-
-6. [Dapps](#dapps)
-7. [Exchanges](#exchanges)
-8. [Wallets](#wallets)
-
-**Ethereum Classic Participants**
-
-9. [Community Channels](#community-channels)
-10. [Developer Teams](#developer-teams)
-11. [Miner Software](#miner-software)
-12. [Mining Pools](#mining-pools)
-
-**Development Resources**
-
-13. [Development Tools](#development-tools)
-14. [Tutorials](#tutorials)
-
-**Technical Documentation**
-
-15. [Technical Papers](#technical-papers)
-16. [Detailed History](#detailed-history)
-17. [Wiki](#wiki)
-18. [Code Documentation](#code-documentation)
-
-**Educational Material**
-
-19. [Learning and MOOCs](#learning-and-moocs)
-20. [Philosophy](#philosophy)
-21. [Videos](#videos)
-22. [Protocols](#protocols)
-23. [Books](#books)
-
-**Other Material**
-
-24. [Miscellaneous](#miscellaneous)
-25. [Contribute](#contribute)
-26. [License](#license)
-
+[Note: Generate a TOC when Done]
 
 ## Overview
 >Launched on July 30, 2015, Ethereum Classic is a distributed blockchain computing platform for smart contracts and decentralized applications. Its native token is ether (ETC), which primarily serves as a reserve currency for transactions on the Ethereum Classic network. In the greater, interoperable Ethereum Virtual Machine (EVM) ecosystem, Ethereum Classic is the original, *unaltered state* Ethereum chain.
@@ -270,6 +219,7 @@ for Desktop or Mobile devices.
 - [Coinbase Wallet](https://wallet.coinbase.com/)
 - [Coinomi](https://www.coinomi.com/)
 - [Cryptonator](https://www.cryptonator.com/)
+- [Edge](https://edge.app/)
 - [Emerald Wallet](https://emeraldpay.io/)
 - [Ethos](https://www.ethos.io/universal-wallet/)
 - [Exodus](https://www.exodus.io/)
