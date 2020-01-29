@@ -16,14 +16,15 @@
 A non-exhaustive list related to the <a href="https://ethereumclassic.org/">Ethereum Classic</a> network.
 <br />
 <a href="https://ethereumclassic.org/">Ethereum Classic</a> is an open-source, blockchain and smart contract computing platform.
-
+<b>Disclaimer:</b> There is no guarantee that links are legitimate. Use at your own risk. If a link is broken, malicious, or you want to add a link, then please make a pull request.
 </div>
 <br/>
 
 
 # Ethereum Classic Master List
 
-[Note: Generate a TOC when Done]
+TOC
+
 
 ## Overview
 >Launched on July 30, 2015, Ethereum Classic is a distributed blockchain computing platform for smart contracts and decentralized applications. Its native token is ether (ETC), which primarily serves as a reserve currency for transactions on the Ethereum Classic network. In the greater, interoperable Ethereum Virtual Machine (EVM) ecosystem, Ethereum Classic is the original, *unaltered state* Ethereum chain.
@@ -66,7 +67,7 @@ source: [EthereumVM.net](http://ethereumvm.net/)
 | [Hyperledger Besu](https://besu.hyperledger.org/) | Maintained | [releases](https://github.com/hyperledger/besu/releases) |
 | [Mantis](https://github.com/input-output-hk/mantis) | *Deprecated* | [source code](https://github.com/input-output-hk/mantis) |
 | [Mist Classic](https://github.com/ethereumproject/mist) | *Obsolete* | [source code](https://github.com/ethereumproject/mist) |
-| [Multi-Geth](https://github.com/multi-geth/multi-geth) | Maintained | [releases](https://github.com/multi-geth/multi-geth/releases) |
+| [Multi-Geth](https://multi-geth.org/) | Maintained | [releases](https://github.com/multi-geth/multi-geth/releases) |
 | [Parity-Ethereum](https://www.parity.io/) | Maintained | [releases](https://github.com/paritytech/parity-ethereum/releases) |
 
 
@@ -84,9 +85,9 @@ source: [EthereumVM.net](http://ethereumvm.net/)
 | Network | Block Explorers| Monitors | Faucets | Public Endpoints |
 | :---: | --- | --- | :---: | :---: |
 | [Ethereum Classic](https://ethereumclassic.org) | [BlockScout](https://blockscout.com/etc/mainnet/), [Emerald Receipt](https://receipt.emeraldpay.io/) [ETCBlockExplorer](https://etcblockexplorer.com/), [ETCPlanet](https://etcplanet.org/), [EthereumMain.net](http://ethereummain.net/), [Expedition](https://expedition.dev/?network=mainnet), [MinerGate](https://minergate.com/blockchain/etc/blocks), [TheMinersPond](https://theminerspond.com/ethereumclassic/explorer/home), [Tokenview](https://etc.tokenview.com/) | [2Miners](https://2miners.com/etc-stats/), [CoinMetrics](https://coinmetrics.io/charts/#assets=etc), [CoinWarz](https://www.coinwarz.com/mining/ethereum-classic), [Emerald Insights](https://insights.emeraldpay.io/), [ETCNodes](https://etcnodes.org/), [ETCStats](http://etcstats.org), [ETCStatus](https://etcstatus.live/), [EtherStats](http://etc.etherstats.net), [MiningPoolStats](https://miningpoolstats.stream/ethereumclassic), [Nanopool](https://etc.nanopool.org/stats), [WhatToMine](https://whattomine.com/coins/162-etc-ethash) | x | [BlockScout](https://blockscout.com/etc/mainnet/api_docs), [Ethercluster](https://www.ethercluster.com/etc) |
-| [Astor](https://astor.host/) | [Astor Explorer](https://explore.astor.host/), [EthereumTest.net](http://astor.ethereumtest.net) | [Astor Stats](https://stats.astor.host/), [ETCStats](http://astor.etcstats.org), [EtherStats](http://astor.etherstats.net) | [1](http://astor.etherdrip.net) | x |
+| [Astor](https://astor.host/) | [Astor Explorer](https://explore.astor.host/), [EthereumTest.net](http://astor.ethereumtest.net) | [Astor Stats](https://stats.astor.host/), [ETCStats](http://astor.etcstats.org), [EtherStats](http://astor.etherstats.net) | [1](http://astor.etherdrip.net) | [Ethercluster](https://www.ethercluster.com/astor) |
 | [Kotti](https://github.com/goerli/testnet) | [BlockScout](https://kotti.etccoopexplorer.com/), [EthereumTest.net](http://kotti.ethereumtest.net), [Expedition](https://expedition.dev/?network=kotti) | [ETCNodes](https://kotti.etcnodes.org/), [ETCStats](http://kotti.etcstats.org), [EtherStats](http://kotti.etherstats.net), [Kotti Stats](http://stats.kotti.goerli.net/), [Expedition](https://expedition.dev/?network=kotti) | [1](http://kottifaucet.me/), [2](http://kotti.etherdrip.net) | [Ethercluster](https://www.ethercluster.com/kotti) |
-| [Mordor](https://github.com/eth-classic/mordor) | [ETCCoopExplorer](https://mordor.etccoopexplorer.com/), [EthereumTest.net](http://mordor.ethereumtest.net), [Expedition](https://expedition.dev/?network=mordor) | [ETCStats](http://mordor.etcstats.org), [EtherStats](http://mordor.etherstats.net), [Expedition](https://expedition.dev/?network=mordor) | [1](http://mordor.canhaz.net/), [2](http://mordor.etherdrip.net) | [Ethercluster](https://www.ethercluster.com/mordor) |
+| [Mordor](https://github.com/eth-classic/mordor) | [ETCCoopExplorer](https://mordor.etccoopexplorer.com/), [EthereumTest.net](http://mordor.ethereumtest.net), [Expedition](https://expedition.dev/?network=mordor) | [ETCCoopExplorer](https://mordor.etccoopexplorer.com/),[ETCStats](http://mordor.etcstats.org), [EtherStats](http://mordor.etherstats.net), [Expedition](https://expedition.dev/?network=mordor) | [1](http://mordor.canhaz.net/), [2](http://mordor.etherdrip.net) | [Ethercluster](https://www.ethercluster.com/mordor) |
 
 ### Gas Fee Estimators:
 
@@ -120,18 +121,39 @@ source: [EthereumVM.net](http://ethereumvm.net/)
 
 # Ethereum Classic Ecosystem
 
-## Active Dapps
+## Active Dapps, Products, Services
 
-- [Alien Farm](https://alienfarm.highlander.network/)
-- [Arena Racing](https://arena.highlander.network/)
-- [Commonwealth](https://commonwealth.gg)
-- [GitCoin](https://gitcoin.co/)
-- [ONEX Network](https://onex.network/)
-- [OriginalMy](https://originalmy.com/)
-- [Stampery](https://stampery.com/)
+### Games
+
+- [Alien Farm](https://alienfarm.highlander.network/) - Idle Alien Farm is the #1 Alien farming simulator and idle game on the blockchain. The more Alien you have, the more eggs they lay (each Alien lays at a rate of 1 per day). Hatch more Alien with your eggs to multiply your production, or cash them out for ETC!
+- [Arena Racing](https://arena.highlander.network/) - 5 players enter the stage to race to the finish. Every player pays 0.1 ETC to race. 1 player in the Arena loses the race but receives dividends from P3C which is bought every round and is locked up in the contract.
+- [ETCOdyssey](https://etcodyssey.com/) - Upgrade your ships to avoid raiders looking to steal your Dark Matter & Star Dust. Fuse in game StarDust for a percentage of the pot or convert your StarDust for ONEX Network tokens sent with 1 transaction to your wallet.
+- [Luckygames](https://luckygames.cc/) - Ethereum Classic Dice and Gambling site.
+
+### Decentralized Identity Dapps
+- [Bloom](https://bloom.co/) - BloomID eliminates the need for usernames and passwords. Simply scan a BloomID-enabled QR code or click “Log In with Bloom” to securely access apps and websites. Log In with Bloom helps mitigate fraud and prevents you from falling victim to credential stuffing attacks.
+- [Civic](https://www.civic.com/) - Through our decentralized architecture with the blockchain and biometrics on the mobile device, our platform provides multi-factor authentication without a username, password, third-party authenticator, or physical hardware token.
+- [OriginalMy](https://originalmy.com/) - Building trust in corporate governance. Seamlessly authenticating: identities, authorisation signatures, and digital content.
+a global public utility for self-sovereign identity
+- [Stampery](https://stampery.com/) - We leverage blockchain technology to ensure the existence, integrity and attribution of communications, processes and data important for your organization.
+- [uPort](https://www.uport.me/) - At uPort, we build trusted ecosystems that let you, your partners and customers share data in a simple, secure, privacy-preserving* way.
+
+### Interoperability
+- [Binance Chain to Ethereum networks](https://docs.tokenbridge.net/eth-bnc-bridge/about-eth-bnc-bridge) - The ETH-to-BNC bridge combines the TokenBridge approach with a TSS to approve relay operations and facilitate asset transfer between an EVM chain and the Binance chain.
+- [TokenBridge](https://docs.tokenbridge.net/) - The TokenBridge allows users to transfer data (e.g. digital asset ownership information) between two chains in the Ethereum ecosystem. Cross-chain bridges provide fast and secure connections between blockchains, creating scalability and connection - interoperability - between Ethereum networks.
+- [WBTC](https://www.wbtc.network/) - Wrapped Bitcoin delivers the power of Bitcoin
+with the flexibility of an ERC20 token
+- [wETC](https://wetc.app/) - The Ethereum Classic Bridge connects ETC to ETH, where ETC is available as WETC on the Ethereum (ETH) chain.
+
+### Open Finance Dapps and Protocols
+- [Commonwealth](https://commonwealth.gg) - The World’s Savings Fund. Immutable. Built 2018.
 - [ePOC](https://etc.poc35.co/)
-- [Portal.Network](https://www.portal.network/)
-- [wETC](https://wetc.app/)
+- [ONEX Network](https://onex.network/)
+
+### Other Dapps
+- [GitCoin](https://gitcoin.co/) - Crowdfunding and Freelance Developers for Open Source Software Projects.
+- [Portal.Network](https://www.portal.network/) - Blockchain Name Service enables connections with IPFS hash, smart contract, and wallet address.
+- [uPort](https://www.uport.me/)
 
 Note: If your dapp is not listed, please reach out to the community via the Ethereum Classic [Discord](https://discordapp.com/invite/HW4GckH).
 
@@ -146,7 +168,7 @@ Note: If your dapp is not listed, please reach out to the community via the Ethe
 - [Coinbase Pro](https://pro.coinbase.com/trade/ETC-USD)
 - [Gate.io](https://gate.io/trade/etc_usdt)
 - [HitBTC](https://hitbtc.com/ETC-to-USDT)
-- [Huobi Global](https://www.hbg.com/en-us/exchange/etc_usdt/)
+- [Huobi Global](https://www.huobi.com/en-us/exchange/etc_usdt/)
 - [Huobi Korea](https://www.huobi.co.kr/en-US/exchange/etc_usdt/)
 - [Kraken](https://trade.kraken.com/markets/kraken/etc/usd)
 - [Kucoin](https://www.kucoin.com/trade/ETC-USDT)
@@ -162,11 +184,11 @@ Note: If your dapp is not listed, please reach out to the community via the Ethe
 
 - [Bisq](https://bisq.network/markets/?currency=etc_btc)
 - [exnce](https://exnce.com/)
-- [Saturn](https://www.saturn.network/)
+- [Saturn Network](https://www.saturn.network/)
 
 
 ## Instant Exchanges
-*Note:* These have worse rates than Centralized Exchanges.
+*Note:* Instant Exchanges typically offer worse rates than Centralized Exchanges.
 
 - [AnyCoinDirect](https://anycoindirect.eu/en/buy-ethereum-classic)
 - [Bitladon](https://www.bitladon.com/ethereum-classic)
@@ -405,6 +427,16 @@ Optimization: [minerOS Miner Butler](http://www.mineros.cn/#/home)
 ## Mining Pools
 
 source: [MiningPoolStats.stream](https://miningpoolstats.stream/ethereumclassic)
+
+### Top Hashrate Miner Pools
+
+1. [Ethermine](https://etc.ethermine.org/)
+2. [Nanopool](https://etc.nanopool.org/)
+3. [MiningPoolHub](https://ethereum-classic.miningpoolhub.com/)
+4. [2Miners](https://2miners.com/etc-mining-pool)
+5. [Beepool](https://beepool.org/coindetail/etc)
+
+### Detailed Miner Pool List
 
 - [1stPool](https://etc.1stpool.org/)
 - [2Miners](https://2miners.com/etc-mining-pool)
